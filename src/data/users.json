@@ -1,0 +1,42 @@
+[
+  {
+    "id": "user-1774686466523",
+    "nickname": "jack",
+    "avatarUrl": "/zrc_logo.png",
+    "passwordHash": "$2b$10$q/8W.VIsvSANyRkepg9uUOVf3dp7ZozoJlS0RPAJLKBkyV3kWq2yG",
+    "createdAt": "2026-03-28T08:27:46.523Z",
+    "shelf": [
+      {
+        "bookId": "book-hundred-years",
+        "addedAt": "2026-03-27T08:29:08.307Z",
+        "status": "finished",
+        "finishedAt": "2026-03-27T18:13:08.542Z"
+      },
+      {
+        "bookId": "book-stranger",
+        "addedAt": "2026-03-28T07:49:19.938Z",
+        "status": "finished",
+        "finishedAt": "2026-03-28T07:49:23.323Z"
+      },
+      {
+        "bookId": "book-white-noise",
+        "addedAt": "2026-03-28T07:49:38.772Z",
+        "status": "want-to-read"
+      },
+      {
+        "bookId": "book-bar-talk",
+        "addedAt": "2026-03-28T07:49:52.467Z",
+        "status": "finished",
+        "finishedAt": "2026-03-28T07:49:56.173Z"
+      }
+    ]
+  },
+  {
+    "id": "user-1774687799651",
+    "nickname": "jack1",
+    "avatarUrl": "/avatars/default-19.svg",
+    "passwordHash": "$2b$10$yPWwMUehGpdH0vlugxwB0emzlVS.xmA.kiX8VeFcwOmsQcgClAoGe",
+    "createdAt": "2026-03-28T08:49:59.651Z",
+    "shelf": []
+  }
+]

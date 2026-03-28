@@ -1,0 +1,72 @@
+[
+  {
+    "id": "wyeth-christinas-world",
+    "src": "/art/wyeth-christinas-world.jpg",
+    "title": "Christina's World",
+    "artist": "Andrew Wyeth",
+    "year": 1948
+  },
+  {
+    "id": "wyeth-wind-from-the-sea",
+    "src": "/art/wyeth-wind-from-the-sea.png",
+    "title": "Wind from the Sea",
+    "artist": "Andrew Wyeth",
+    "year": 1947
+  },
+  {
+    "id": "wyeth-winter-1946",
+    "src": "/art/wyeth-winter-1946.png",
+    "title": "Winter 1946",
+    "artist": "Andrew Wyeth",
+    "year": 1946
+  },
+  {
+    "id": "wyeth-braids",
+    "src": "/art/wyeth-braids.jpg",
+    "title": "Braids",
+    "artist": "Andrew Wyeth",
+    "year": 1979
+  },
+  {
+    "id": "wyeth-public-sale",
+    "src": "/art/wyeth-public-sale.jpg",
+    "title": "Public Sale",
+    "artist": "Andrew Wyeth",
+    "year": 1943
+  },
+  {
+    "id": "mucha-job",
+    "src": "/art/mucha-job.jpg",
+    "title": "Job",
+    "artist": "Alphonse Mucha",
+    "year": 1896
+  },
+  {
+    "id": "mucha-gismonda",
+    "src": "/art/mucha-gismonda.jpg",
+    "title": "Gismonda",
+    "artist": "Alphonse Mucha",
+    "year": 1894
+  },
+  {
+    "id": "mucha-zodiac",
+    "src": "/art/mucha-zodiac.jpg",
+    "title": "Zodiac",
+    "artist": "Alphonse Mucha",
+    "year": 1896
+  },
+  {
+    "id": "mucha-spring",
+    "src": "/art/mucha-spring.jpg",
+    "title": "Spring",
+    "artist": "Alphonse Mucha",
+    "year": 1896
+  },
+  {
+    "id": "mucha-autumn",
+    "src": "/art/mucha-autumn.jpg",
+    "title": "Autumn",
+    "artist": "Alphonse Mucha",
+    "year": 1896
+  }
+]

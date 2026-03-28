@@ -1,0 +1,7 @@
+<svg width="300" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="450" fill="#e8e6e0"/>
+  <g transform="translate(150, 200)">
+    <text font-family="serif" font-size="48" fill="#8B6F4E" text-anchor="middle" y="0">📖</text>
+    <text font-family="sans-serif" font-size="14" fill="#999" text-anchor="middle" y="40">No Cover Available</text>
+  </g>
+</svg>

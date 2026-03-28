@@ -1,0 +1,5607 @@
+[
+  {
+    "id": "book-stranger",
+    "title": "The Stranger",
+    "titleCn": "局外人",
+    "author": "Albert Camus",
+    "authorCn": "加缪",
+    "nationality": "French-Algerian",
+    "isbn": "9780679720201",
+    "description": "一个对世界漠不关心的男人，在母亲的葬礼上没有哭泣，第二天就去游泳、看喜剧电影、开始一段恋情。后来他在海滩上杀了一个阿拉伯人——因为太阳太刺眼。加缪用这个故事探讨了存在的荒谬和人类对意义的寻找。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "philosophy"
+    ],
+    "tags": [
+      "absurd",
+      "existential",
+      "alienation",
+      "french",
+      "modernism"
+    ],
+    "publishYear": 1942,
+    "pages": 123,
+    "recommendationReason": "《局外人》是阿尔贝·加缪的经典之作，这本书值得每一位热爱文学和哲学的读者认真品味。故事的主人公梅尔索，一个对生活漠然置之的人，用他那种独特的冷漠态度回应着这个充满规则和期待的世界。无论是在母亲的葬礼上毫无悲伤，还是在沉重的社会道德面前选择自由和随意，梅尔索的经历让人对“存在的荒谬”这一主题有了全新的思考。\n\n加缪的写作风格简洁而有力，他用平实的语言描绘了梅尔索的内心世界以及他与周围环境的生疏感。这种冷静的叙述，仿佛在引导我们审视自己与社会之间的那层隔膜，深刻却不失为一种鼓励和解放。加缪通过梅尔索的行为反映了人类在寻求存在意义时的无奈与抗争，他要求读者重新思考自由、责任与死亡的关系，这种哲学上的探索使得本书与众不同。\n\n无论你是文学爱好者还是对哲学感兴趣的读者，这本书都能引起你内心深处的共鸣。特别是如果你曾感受到对生活的迷茫与无奈，梅尔索的故事或许能成为你思考自我的一面镜子。在这本书中，加缪不仅讲述了一个故事，更是为我们展开了一场关于人生的深刻对话。\n\n在今天这个纷繁复杂的时代，很多人都在追寻与外部世界的连接，而《局外人》正是那么一种让我们反思自己与世界关系的作品。无论你阅读这本书是为了享受文字的美，还是为了思考人生的意义，它都将会在你心中留下深刻的印记。给自己一些时间，走进梅尔索的世界，你会发现那是一段独特而真实的旅程。",
+    "relatedBookIds": [
+      "book-blindness",
+      "book-unbearable",
+      "book-plague"
+    ]
+  },
+  {
+    "id": "book-hundred-years",
+    "title": "One Hundred Years of Solitude",
+    "titleCn": "百年孤独",
+    "author": "Gabriel García Márquez",
+    "authorCn": "马尔克斯",
+    "nationality": "Colombian",
+    "isbn": "9780060883287",
+    "description": "布恩迪亚家族七代人的传奇故事，在魔幻与现实之间编织出一个充满孤独、爱情、战争和奇迹的世界。这是拉丁美洲文学的基石之作。",
+    "genre": [
+      "fiction",
+      "magical-realism"
+    ],
+    "tags": [
+      "family",
+      "solitude",
+      "magical-realism",
+      "latin-american",
+      "epic"
+    ],
+    "publishYear": 1967,
+    "pages": 417,
+    "recommendationReason": "test",
+    "relatedBookIds": [
+      "book-blindness",
+      "book-stranger",
+      "book-autumn-patriarch"
+    ]
+  },
+  {
+    "id": "book-norwegian-wood",
+    "title": "Norwegian Wood",
+    "titleCn": "挪威的森林",
+    "author": "Haruki Murakami",
+    "authorCn": "村上春树",
+    "nationality": "Japanese",
+    "isbn": "9780375704024",
+    "description": "一个关于青春、失去和成长的故事。渡边在两个女孩之间徘徊，一个沉浸在死亡的阴影中，一个充满生命力。村上春树最写实、最动人的作品。",
+    "genre": [
+      "fiction",
+      "romance",
+      "coming-of-age"
+    ],
+    "tags": [
+      "youth",
+      "loss",
+      "love",
+      "japanese",
+      "melancholy"
+    ],
+    "publishYear": 1987,
+    "pages": 296,
+    "recommendationReason": "test",
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-unbearable",
+      "book-wind-up-bird"
+    ]
+  },
+  {
+    "id": "book-unbearable",
+    "title": "The Unbearable Lightness of Being",
+    "titleCn": "不能承受的生命之轻",
+    "author": "Milan Kundera",
+    "authorCn": "昆德拉",
+    "nationality": "Czech-French",
+    "isbn": "9780061148521",
+    "description": "在布拉格之春的背景下，四个人物的爱情与命运交织。昆德拉探讨了轻与重、灵与肉、偶然与必然的哲学命题，是小说与哲学的完美融合。",
+    "genre": [
+      "fiction",
+      "philosophy",
+      "romance"
+    ],
+    "tags": [
+      "existential",
+      "love",
+      "philosophy",
+      "czech",
+      "political"
+    ],
+    "publishYear": 1984,
+    "pages": 314,
+    "recommendationReason": "如果你喜欢在故事中思考，这本书会让你同时感受到爱情的重量和存在的轻盈。",
+    "relatedBookIds": [
+      "book-norwegian-wood",
+      "book-stranger",
+      "book-joke"
+    ]
+  },
+  {
+    "id": "book-blindness",
+    "title": "Blindness",
+    "titleCn": "失明症漫记",
+    "author": "José Saramago",
+    "authorCn": "萨拉马戈",
+    "nationality": "Portuguese",
+    "isbn": "9780156007757",
+    "description": "一场神秘的白色失明症在城市中蔓延，整个社会在恐惧中崩溃。只有一个女人保持着视力，引领一群盲人在混乱中寻找生存的希望。萨拉马戈对人性的深刻寝言。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "allegory"
+    ],
+    "tags": [
+      "society",
+      "human-nature",
+      "dystopia",
+      "portuguese",
+      "allegory"
+    ],
+    "publishYear": 1995,
+    "pages": 349,
+    "recommendationReason": "如果你想读一本让你重新审视文明和人性的书，这本会持续在你脑海中回荡。",
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-stranger",
+      "book-lord-flies"
+    ]
+  },
+  {
+    "id": "book-steppenwolf",
+    "title": "Steppenwolf",
+    "titleCn": "荒原狼",
+    "author": "Hermann Hesse",
+    "authorCn": "赫尔曼·黑塞",
+    "nationality": "German-Swiss",
+    "isbn": "9780312278670",
+    "description": "哈勒尔是一个孤独的知识分子，他觉得自己一半是人，一半是狼。在一次神秘的魔幻剧场体验中，他开始重新认识自己的多重人格。黑塞对内心世界的探索至今仍然振聋发聉。",
+    "genre": [
+      "fiction",
+      "philosophy",
+      "psychological"
+    ],
+    "tags": [
+      "identity",
+      "existential",
+      "duality",
+      "german",
+      "modernism"
+    ],
+    "publishYear": 1927,
+    "pages": 237,
+    "recommendationReason": "如果你曾觉得自己内心住着两个人，这本书会告诉你，你内心住着一千个。",
+    "relatedBookIds": [
+      "book-stranger",
+      "book-unbearable",
+      "book-siddhartha"
+    ]
+  },
+  {
+    "id": "book-invisible-cities",
+    "title": "Invisible Cities",
+    "titleCn": "看不见的城市",
+    "author": "Italo Calvino",
+    "authorCn": "卡尔维诺",
+    "nationality": "Italian",
+    "isbn": "9780156453806",
+    "description": "马可·波罗向忽必烈汗描述他访问过的城市。每一座城市都是一个梦境，一个密码，一面镜子。卡尔维诺用极简的文字构建了一个无限的想象世界。",
+    "genre": [
+      "fiction",
+      "fantasy",
+      "postmodern"
+    ],
+    "tags": [
+      "imagination",
+      "cities",
+      "postmodern",
+      "italian",
+      "poetic"
+    ],
+    "publishYear": 1972,
+    "pages": 165,
+    "recommendationReason": "如果你喜欢诗意的文字和无边的想象力，这本书每一页都是一个宇宙。",
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-steppenwolf",
+      "book-if-on-a-winters-night"
+    ]
+  },
+  {
+    "id": "book-remains-of-day",
+    "title": "The Remains of the Day",
+    "titleCn": "长日将尽",
+    "author": "Kazuo Ishiguro",
+    "authorCn": "石黑一雄",
+    "nationality": "British-Japanese",
+    "isbn": "9780679731726",
+    "description": "一个英国管家在六天的旅行中回忆自己的一生。他对职责的执着、对感情的压抑、对尊严的追求，最终汇成了一个关于遗憾和自欺的故事。石黑一雄最精致的作品。",
+    "genre": [
+      "fiction",
+      "literary"
+    ],
+    "tags": [
+      "regret",
+      "duty",
+      "british",
+      "quiet",
+      "dignity"
+    ],
+    "publishYear": 1989,
+    "pages": 245,
+    "recommendationReason": "如果你欣赏克制之下的深情，这本书的每一句话都像是在水面下涌动的潮汐。",
+    "relatedBookIds": [
+      "book-norwegian-wood",
+      "book-invisible-cities",
+      "book-never-let-me-go"
+    ]
+  },
+  {
+    "id": "book-master-margarita",
+    "title": "The Master and Margarita",
+    "titleCn": "大师和玛格丽特",
+    "author": "Mikhail Bulgakov",
+    "authorCn": "布尔加科夫",
+    "nationality": "Russian",
+    "isbn": "9780143108276",
+    "description": "魔鬼来到了苏联时代的莫斯科，带来了混乱、魔法和正义。与此同时，一个失意的作家和他忠贞的爱人的故事在另一个时空层面展开。这是二十世纪最伟大的俄语小说之一。",
+    "genre": [
+      "fiction",
+      "satire",
+      "fantasy"
+    ],
+    "tags": [
+      "satire",
+      "love",
+      "russian",
+      "fantasy",
+      "political"
+    ],
+    "publishYear": 1967,
+    "pages": 412,
+    "recommendationReason": "如果你喜欢在荒诞中看到真理，在魔法中看到现实，这本书会让你又笑又哭。",
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-invisible-cities",
+      "book-dead-souls"
+    ]
+  },
+  {
+    "id": "book-if-on-a-winters-night",
+    "title": "If on a Winter's Night a Traveler",
+    "titleCn": "如果在冬夜，一个旅人",
+    "author": "Italo Calvino",
+    "authorCn": "卡尔维诺",
+    "nationality": "Italian",
+    "isbn": "9780156439619",
+    "description": "你打开了卡尔维诺的新书，但发现它是残缺的。你去书店换，却得到了另一本书的开头。就这样，你被卷入了十个不同故事的开头，永远无法读到结尾。一本关于阅读本身的小说。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "metafiction"
+    ],
+    "tags": [
+      "reading",
+      "postmodern",
+      "italian",
+      "metafiction",
+      "playful"
+    ],
+    "publishYear": 1979,
+    "pages": 260,
+    "recommendationReason": "如果你爱读书这件事本身，这本书是对阅读最美的情书。",
+    "relatedBookIds": [
+      "book-master-margarita",
+      "book-invisible-cities",
+      "book-barons-trees"
+    ]
+  },
+  {
+    "id": "book-ulysses",
+    "title": "Ulysses",
+    "titleCn": "尤利西斯",
+    "author": "James Joyce",
+    "authorCn": "乔伊斯",
+    "nationality": "Irish",
+    "isbn": "9780679722762",
+    "description": "一天十八小时，都柏林的两个男人的内心漫游。乔伊斯用意识流重新定义了小说。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "literary"
+    ],
+    "tags": [
+      "stream-of-consciousness",
+      "irish",
+      "modernism",
+      "epic",
+      "experimental"
+    ],
+    "publishYear": 1922,
+    "pages": 732,
+    "relatedBookIds": [
+      "book-portrait-artist",
+      "book-dubliners",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-1984",
+    "title": "1984",
+    "titleCn": "一九八四",
+    "author": "George Orwell",
+    "authorCn": "奥威尔",
+    "nationality": "British",
+    "isbn": "9780451524935",
+    "description": "在极权主义的未来社会，老大哥监视着一切。沃恩斯对极权统治的预言之作。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "political"
+    ],
+    "tags": [
+      "dystopia",
+      "totalitarianism",
+      "surveillance",
+      "british",
+      "political"
+    ],
+    "publishYear": 1949,
+    "pages": 328,
+    "relatedBookIds": [
+      "book-brave-new-world",
+      "book-never-let-me-go",
+      "book-we"
+    ]
+  },
+  {
+    "id": "book-lolita",
+    "title": "Lolita",
+    "titleCn": "洛丽塔",
+    "author": "Vladimir Nabokov",
+    "authorCn": "纳博科夫",
+    "nationality": "Russian-American",
+    "isbn": "9780679723165",
+    "description": "一个中年男子对少女的痴迷。纳博科夫用华丽的文字讲述了一个不道德的故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "psychological"
+    ],
+    "tags": [
+      "controversial",
+      "obsession",
+      "american",
+      "literary",
+      "unreliable-narrator"
+    ],
+    "publishYear": 1955,
+    "pages": 336,
+    "relatedBookIds": [
+      "book-ada",
+      "book-pale-fire",
+      "book-moby-dick"
+    ]
+  },
+  {
+    "id": "book-sound-fury",
+    "title": "The Sound and the Fury",
+    "titleCn": "喊叫与骚动",
+    "author": "William Faulkner",
+    "authorCn": "福克纳",
+    "nationality": "American",
+    "isbn": "9780679732242",
+    "description": "南方一个没落家族的崩溃，通过四个人的视角讲述。福克纳的实验性杰作。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "literary"
+    ],
+    "tags": [
+      "southern",
+      "family",
+      "modernism",
+      "american",
+      "experimental"
+    ],
+    "publishYear": 1929,
+    "pages": 326,
+    "relatedBookIds": [
+      "book-as-i-lay-dying",
+      "book-light-august",
+      "book-absalom-absalom"
+    ]
+  },
+  {
+    "id": "book-great-gatsby",
+    "title": "The Great Gatsby",
+    "titleCn": "了不起的盖茨比",
+    "author": "F. Scott Fitzgerald",
+    "authorCn": "菲茨杰拉德",
+    "nationality": "American",
+    "isbn": "9780743273565",
+    "description": "爱情、梦想和美国梦的破灭。一个关于二十年代的永恒故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "american-dream",
+      "jazz-age",
+      "love",
+      "american",
+      "tragedy"
+    ],
+    "publishYear": 1925,
+    "pages": 180,
+    "relatedBookIds": [
+      "book-tender-night",
+      "book-age-innocence",
+      "book-farewell-arms"
+    ]
+  },
+  {
+    "id": "book-catch-22",
+    "title": "Catch-22",
+    "titleCn": "第二十二条军规",
+    "author": "Joseph Heller",
+    "authorCn": "海勒",
+    "nationality": "American",
+    "isbn": "9781451626650",
+    "description": "二战中的荒诞军队生活。海勒用黑色幽默揭示战争的疯狂。",
+    "genre": [
+      "fiction",
+      "satire",
+      "war"
+    ],
+    "tags": [
+      "war",
+      "satire",
+      "absurd",
+      "american",
+      "dark-humor"
+    ],
+    "publishYear": 1961,
+    "pages": 453,
+    "relatedBookIds": [
+      "book-slaughterhouse-five",
+      "book-farewell-arms",
+      "book-for-whom-bell-tolls"
+    ]
+  },
+  {
+    "id": "book-beloved",
+    "title": "Beloved",
+    "titleCn": "宠儿",
+    "author": "Toni Morrison",
+    "authorCn": "莫里森",
+    "nationality": "American",
+    "isbn": "9781400033416",
+    "description": "奴隶制的鬼魂纠缠着一个母亲。莫里森对美国历史创伤的深刻书写。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "slavery",
+      "trauma",
+      "african-american",
+      "ghost",
+      "motherhood"
+    ],
+    "publishYear": 1987,
+    "pages": 324,
+    "relatedBookIds": [
+      "book-beloved-toni",
+      "book-sula",
+      "book-invisible-man"
+    ]
+  },
+  {
+    "id": "book-mrs-dalloway",
+    "title": "Mrs. Dalloway",
+    "titleCn": "达洛维夫人",
+    "author": "Virginia Woolf",
+    "authorCn": "伍尔夫",
+    "nationality": "British",
+    "isbn": "9780156628709",
+    "description": "伦敦的一天，一个女人的内心世界。伍尔夫的意识流杰作。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "literary"
+    ],
+    "tags": [
+      "stream-of-consciousness",
+      "british",
+      "feminism",
+      "modernism",
+      "time"
+    ],
+    "publishYear": 1925,
+    "pages": 194,
+    "relatedBookIds": [
+      "book-to-lighthouse",
+      "book-ulysses",
+      "book-in-search-lost-time"
+    ]
+  },
+  {
+    "id": "book-to-lighthouse",
+    "title": "To the Lighthouse",
+    "titleCn": "到灯塔去",
+    "author": "Virginia Woolf",
+    "authorCn": "伍尔夫",
+    "nationality": "British",
+    "isbn": "9780156907392",
+    "description": "一个家庭在时间中的变化。伍尔夫最诗意的作品。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "literary"
+    ],
+    "tags": [
+      "time",
+      "family",
+      "british",
+      "modernism",
+      "poetic"
+    ],
+    "publishYear": 1927,
+    "pages": 209,
+    "relatedBookIds": [
+      "book-mrs-dalloway",
+      "book-sound-fury",
+      "book-in-search-lost-time"
+    ]
+  },
+  {
+    "id": "book-heart-darkness",
+    "title": "Heart of Darkness",
+    "titleCn": "黑暗的心",
+    "author": "Joseph Conrad",
+    "authorCn": "康拉德",
+    "nationality": "Polish-British",
+    "isbn": "9780486264646",
+    "description": "一次进入非洲丛林的旅程，也是进入人性黑暗的旅程。",
+    "genre": [
+      "fiction",
+      "literary",
+      "colonial"
+    ],
+    "tags": [
+      "colonialism",
+      "darkness",
+      "journey",
+      "british",
+      "psychological"
+    ],
+    "publishYear": 1899,
+    "pages": 96,
+    "relatedBookIds": [
+      "book-remains-of-day",
+      "book-mrs-dalloway",
+      "book-to-lighthouse"
+    ]
+  },
+  {
+    "id": "book-trial",
+    "title": "The Trial",
+    "titleCn": "审判",
+    "author": "Franz Kafka",
+    "authorCn": "卡夫卡",
+    "nationality": "Czech-Austrian",
+    "isbn": "9780805209990",
+    "description": "一个男人被逾捕，但他不知道自己的罪名。卡夫卡对官僚体系的荒诞写照。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "absurd"
+    ],
+    "tags": [
+      "kafka",
+      "absurd",
+      "bureaucracy",
+      "existential",
+      "czech"
+    ],
+    "publishYear": 1925,
+    "pages": 255,
+    "relatedBookIds": [
+      "book-metamorphosis",
+      "book-stranger",
+      "book-unbearable"
+    ]
+  },
+  {
+    "id": "book-metamorphosis",
+    "title": "The Metamorphosis",
+    "titleCn": "变形记",
+    "author": "Franz Kafka",
+    "authorCn": "卡夫卡",
+    "nationality": "Czech-Austrian",
+    "isbn": "9780553213690",
+    "description": "一个男人醒来发现自己变成了一只巨大的甲虫。卡夫卡最著名的中篇。",
+    "genre": [
+      "fiction",
+      "absurd",
+      "existentialism"
+    ],
+    "tags": [
+      "kafka",
+      "transformation",
+      "alienation",
+      "absurd",
+      "family"
+    ],
+    "publishYear": 1915,
+    "pages": 201,
+    "relatedBookIds": [
+      "book-trial",
+      "book-stranger",
+      "book-nausea"
+    ]
+  },
+  {
+    "id": "book-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "titleCn": "卡拉马佐夫兄弟",
+    "author": "Fyodor Dostoevsky",
+    "authorCn": "陀思妥耶夫斯基",
+    "nationality": "Russian",
+    "isbn": "9780374528379",
+    "description": "三个性格迵异的兄弟和他们的父亲。陀思妥耶夫斯基对信仰、道德和人性的终极探讨。",
+    "genre": [
+      "fiction",
+      "philosophy",
+      "literary"
+    ],
+    "tags": [
+      "russian",
+      "philosophy",
+      "religion",
+      "family",
+      "morality"
+    ],
+    "publishYear": 1880,
+    "pages": 796,
+    "relatedBookIds": [
+      "book-crime-punishment",
+      "book-notes-underground",
+      "book-anna-karenina"
+    ]
+  },
+  {
+    "id": "book-crime-punishment",
+    "title": "Crime and Punishment",
+    "titleCn": "罪与罚",
+    "author": "Fyodor Dostoevsky",
+    "authorCn": "陀思妥耶夫斯基",
+    "nationality": "Russian",
+    "isbn": "9780143058144",
+    "description": "一个贫穷学生杀了一个当铺老板娘，然后在罪恶感中挣扎。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "philosophy"
+    ],
+    "tags": [
+      "russian",
+      "guilt",
+      "morality",
+      "psychological",
+      "crime"
+    ],
+    "publishYear": 1866,
+    "pages": 671,
+    "relatedBookIds": [
+      "book-brothers-karamazov",
+      "book-notes-underground",
+      "book-steppenwolf"
+    ]
+  },
+  {
+    "id": "book-anna-karenina",
+    "title": "Anna Karenina",
+    "titleCn": "安娜·卡列尼娜",
+    "author": "Leo Tolstoy",
+    "authorCn": "托尔斯泰",
+    "nationality": "Russian",
+    "isbn": "9780143035008",
+    "description": "一个女人的婚外情和悲剧结局。托尔斯泰对俄国社会的全景描绘。",
+    "genre": [
+      "fiction",
+      "romance",
+      "literary"
+    ],
+    "tags": [
+      "russian",
+      "love",
+      "society",
+      "tragedy",
+      "epic"
+    ],
+    "publishYear": 1877,
+    "pages": 864,
+    "relatedBookIds": [
+      "book-war-peace",
+      "book-eugene-onegin",
+      "book-doctor-zhivago"
+    ]
+  },
+  {
+    "id": "book-war-peace",
+    "title": "War and Peace",
+    "titleCn": "战争与和平",
+    "author": "Leo Tolstoy",
+    "authorCn": "托尔斯泰",
+    "nationality": "Russian",
+    "isbn": "9780307266934",
+    "description": "拿破仑战争时期的俄国社会。托尔斯泰的史诗巨著。",
+    "genre": [
+      "fiction",
+      "historical",
+      "epic"
+    ],
+    "tags": [
+      "russian",
+      "war",
+      "history",
+      "epic",
+      "society"
+    ],
+    "publishYear": 1869,
+    "pages": 1296,
+    "relatedBookIds": [
+      "book-anna-karenina",
+      "book-war-end-world",
+      "book-doctor-zhivago"
+    ]
+  },
+  {
+    "id": "book-in-search-lost-time",
+    "title": "In Search of Lost Time",
+    "titleCn": "追忆似水年华",
+    "author": "Marcel Proust",
+    "authorCn": "普鲁斯特",
+    "nationality": "French",
+    "isbn": "9780812969641",
+    "description": "通过记忆重现一生。普鲁斯特的七卷本巨著。",
+    "genre": [
+      "fiction",
+      "literary",
+      "modernism"
+    ],
+    "tags": [
+      "memory",
+      "time",
+      "french",
+      "modernism",
+      "introspective"
+    ],
+    "publishYear": 1913,
+    "pages": 4215,
+    "relatedBookIds": [
+      "book-mrs-dalloway",
+      "book-to-lighthouse",
+      "book-ulysses"
+    ]
+  },
+  {
+    "id": "book-don-quixote",
+    "title": "Don Quixote",
+    "titleCn": "堂吉诃德",
+    "author": "Miguel de Cervantes",
+    "authorCn": "塞万提斯",
+    "nationality": "Spanish",
+    "isbn": "9780060934347",
+    "description": "一个老人读骑士小说读疯了，决定成为游侠骑士。现代小说的鼻祖。",
+    "genre": [
+      "fiction",
+      "satire",
+      "adventure"
+    ],
+    "tags": [
+      "spanish",
+      "satire",
+      "adventure",
+      "classic",
+      "idealism"
+    ],
+    "publishYear": 1605,
+    "pages": 863,
+    "relatedBookIds": [
+      "book-adventures-huck-finn",
+      "book-master-margarita",
+      "book-catch-22"
+    ]
+  },
+  {
+    "id": "book-moby-dick",
+    "title": "Moby-Dick",
+    "titleCn": "白鲸",
+    "author": "Herman Melville",
+    "authorCn": "麦尔维尔",
+    "nationality": "American",
+    "isbn": "9780142437247",
+    "description": "亚哈船长对白鲸的痴迷和复仇。美国文学的史诗。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "obsession",
+      "sea",
+      "epic",
+      "symbolism"
+    ],
+    "publishYear": 1851,
+    "pages": 585,
+    "relatedBookIds": [
+      "book-old-man-sea",
+      "book-lolita",
+      "book-scarlet-letter"
+    ]
+  },
+  {
+    "id": "book-madame-bovary",
+    "title": "Madame Bovary",
+    "titleCn": "包法利夫人",
+    "author": "Gustave Flaubert",
+    "authorCn": "福楼拜",
+    "nationality": "French",
+    "isbn": "9780143106494",
+    "description": "一个女人对平庸生活的反抗和悲剧结局。现实主义文学的里程碑。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "french",
+      "realism",
+      "tragedy",
+      "adultery",
+      "society"
+    ],
+    "publishYear": 1856,
+    "pages": 327,
+    "relatedBookIds": [
+      "book-anna-karenina",
+      "book-great-gatsby",
+      "book-in-search-lost-time"
+    ]
+  },
+  {
+    "id": "book-wuthering-heights",
+    "title": "Wuthering Heights",
+    "titleCn": "呆啸山庄",
+    "author": "Emily Brontë",
+    "authorCn": "艾米莉·勃朗特",
+    "nationality": "British",
+    "isbn": "9780141439556",
+    "description": "荒原上的痴情与复仇。勃朗特姐妹的哥特式爱情史诗。",
+    "genre": [
+      "fiction",
+      "romance",
+      "gothic"
+    ],
+    "tags": [
+      "british",
+      "passion",
+      "revenge",
+      "gothic",
+      "moors"
+    ],
+    "publishYear": 1847,
+    "pages": 416,
+    "relatedBookIds": [
+      "book-jane-eyre",
+      "book-pride-prejudice",
+      "book-remains-of-day"
+    ]
+  },
+  {
+    "id": "book-jane-eyre",
+    "title": "Jane Eyre",
+    "titleCn": "简·爱",
+    "author": "Charlotte Brontë",
+    "authorCn": "夏洛蒂·勃朗特",
+    "nationality": "British",
+    "isbn": "9780141441146",
+    "description": "一个孤儿的成长和爱情。女性主义文学的经典之作。",
+    "genre": [
+      "fiction",
+      "romance",
+      "gothic"
+    ],
+    "tags": [
+      "british",
+      "feminism",
+      "love",
+      "gothic",
+      "independence"
+    ],
+    "publishYear": 1847,
+    "pages": 507,
+    "relatedBookIds": [
+      "book-wuthering-heights",
+      "book-pride-prejudice",
+      "book-mrs-dalloway"
+    ]
+  },
+  {
+    "id": "book-pride-prejudice",
+    "title": "Pride and Prejudice",
+    "titleCn": "傲慢与偏见",
+    "author": "Jane Austen",
+    "authorCn": "简·奥斯汀",
+    "nationality": "British",
+    "isbn": "9780141439518",
+    "description": "伊丽莎白和达西先生的爱情故事。奥斯汀最受欢迎的小说。",
+    "genre": [
+      "fiction",
+      "romance",
+      "literary"
+    ],
+    "tags": [
+      "british",
+      "love",
+      "society",
+      "wit",
+      "marriage"
+    ],
+    "publishYear": 1813,
+    "pages": 279,
+    "relatedBookIds": [
+      "book-middlemarch",
+      "book-anna-karenina",
+      "book-jane-eyre"
+    ]
+  },
+  {
+    "id": "book-middlemarch",
+    "title": "Middlemarch",
+    "titleCn": "米德尔马奇",
+    "author": "George Eliot",
+    "authorCn": "乔治·艾略特",
+    "nationality": "British",
+    "isbn": "9780141196893",
+    "description": "英国小镇的生活全景。艾略特对社会和人性的深刻描绘。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "british",
+      "society",
+      "marriage",
+      "realism",
+      "provincial"
+    ],
+    "publishYear": 1871,
+    "pages": 880,
+    "relatedBookIds": [
+      "book-pride-prejudice",
+      "book-remains-of-day",
+      "book-mrs-dalloway"
+    ]
+  },
+  {
+    "id": "book-grapes-wrath",
+    "title": "The Grapes of Wrath",
+    "titleCn": "愤怒的葡萄",
+    "author": "John Steinbeck",
+    "authorCn": "斯坦贝克",
+    "nationality": "American",
+    "isbn": "9780143039433",
+    "description": "大萧条时期一个家庭的迁徙之路。斯坦贝克对美国社会问题的揭露。",
+    "genre": [
+      "fiction",
+      "social",
+      "historical"
+    ],
+    "tags": [
+      "american",
+      "depression",
+      "migration",
+      "social-justice",
+      "family"
+    ],
+    "publishYear": 1939,
+    "pages": 464,
+    "relatedBookIds": [
+      "book-of-mice-men",
+      "book-east-eden",
+      "book-american-pastoral"
+    ]
+  },
+  {
+    "id": "book-invisible-man",
+    "title": "Invisible Man",
+    "titleCn": "隐形人",
+    "author": "Ralph Ellison",
+    "authorCn": "艾利森",
+    "nationality": "American",
+    "isbn": "9780679732761",
+    "description": "一个黑人在美国社会中的隐形存在。艾利森对种族问题的深刺探讨。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "african-american",
+      "identity",
+      "racism",
+      "american",
+      "social"
+    ],
+    "publishYear": 1952,
+    "pages": 581,
+    "relatedBookIds": [
+      "book-native-son",
+      "book-to-kill-mockingbird",
+      "book-house-mirth"
+    ]
+  },
+  {
+    "id": "book-slaughterhouse-five",
+    "title": "Slaughterhouse-Five",
+    "titleCn": "第五号屠场",
+    "author": "Kurt Vonnegut",
+    "authorCn": "冯内古特",
+    "nationality": "American",
+    "isbn": "9780385333849",
+    "description": "一个士兵在时间中旅行，经历了德累斯顿轰炸。冯内古特的反战杰作。",
+    "genre": [
+      "fiction",
+      "war",
+      "satire"
+    ],
+    "tags": [
+      "war",
+      "time-travel",
+      "satire",
+      "american",
+      "anti-war"
+    ],
+    "publishYear": 1969,
+    "pages": 275,
+    "relatedBookIds": [
+      "book-catch-22",
+      "book-farewell-arms",
+      "book-for-whom-bell-tolls"
+    ]
+  },
+  {
+    "id": "book-on-the-road",
+    "title": "On the Road",
+    "titleCn": "在路上",
+    "author": "Jack Kerouac",
+    "authorCn": "凯鲁亚克",
+    "nationality": "American",
+    "isbn": "9780140283297",
+    "description": "横跨美国的自由之旅。垮败派一代的圣经。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "beat"
+    ],
+    "tags": [
+      "beat-generation",
+      "freedom",
+      "journey",
+      "american",
+      "youth"
+    ],
+    "publishYear": 1957,
+    "pages": 307,
+    "relatedBookIds": [
+      "book-adventures-huck-finn",
+      "book-moby-dick",
+      "book-old-man-sea"
+    ]
+  },
+  {
+    "id": "book-catcher-rye",
+    "title": "The Catcher in the Rye",
+    "titleCn": "麦田里的守望者",
+    "author": "J.D. Salinger",
+    "authorCn": "塞林格",
+    "nationality": "American",
+    "isbn": "9780316769174",
+    "description": "青少年霍尔顿在纽约的三天。美国青少年叛逆的经典之作。",
+    "genre": [
+      "fiction",
+      "coming-of-age",
+      "literary"
+    ],
+    "tags": [
+      "youth",
+      "alienation",
+      "american",
+      "rebellion",
+      "adolescence"
+    ],
+    "publishYear": 1951,
+    "pages": 277,
+    "relatedBookIds": [
+      "book-virgin-suicides",
+      "book-lolita",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-lord-flies",
+    "title": "Lord of the Flies",
+    "titleCn": "蝇王",
+    "author": "William Golding",
+    "authorCn": "戈尔丁",
+    "nationality": "British",
+    "isbn": "9780399501487",
+    "description": "一群孩子在荒岛上的文明崩溃。戈尔丁对人性黑暗的寓言。",
+    "genre": [
+      "fiction",
+      "allegory",
+      "dystopia"
+    ],
+    "tags": [
+      "human-nature",
+      "civilization",
+      "british",
+      "allegory",
+      "survival"
+    ],
+    "publishYear": 1954,
+    "pages": 224,
+    "relatedBookIds": [
+      "book-blindness",
+      "book-1984",
+      "book-brave-new-world"
+    ]
+  },
+  {
+    "id": "book-brave-new-world",
+    "title": "Brave New World",
+    "titleCn": "美丽新世界",
+    "author": "Aldous Huxley",
+    "authorCn": "赫胥黎",
+    "nationality": "British",
+    "isbn": "9780060850524",
+    "description": "一个看似完美的未来社会，但人类已经失去了自由。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "science-fiction"
+    ],
+    "tags": [
+      "dystopia",
+      "technology",
+      "british",
+      "society",
+      "control"
+    ],
+    "publishYear": 1932,
+    "pages": 268,
+    "relatedBookIds": [
+      "book-1984",
+      "book-never-let-me-go",
+      "book-lord-flies"
+    ]
+  },
+  {
+    "id": "book-fahrenheit-451",
+    "title": "Fahrenheit 451",
+    "titleCn": "华氏451度",
+    "author": "Ray Bradbury",
+    "authorCn": "布拉德伯里",
+    "nationality": "American",
+    "isbn": "9781451673319",
+    "description": "一个禁书的未来世界，消防员的工作是焚书。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "science-fiction"
+    ],
+    "tags": [
+      "dystopia",
+      "censorship",
+      "books",
+      "american",
+      "future"
+    ],
+    "publishYear": 1953,
+    "pages": 249,
+    "relatedBookIds": [
+      "book-brave-new-world",
+      "book-road",
+      "book-we"
+    ]
+  },
+  {
+    "id": "book-handmaids-tale",
+    "title": "The Handmaid's Tale",
+    "titleCn": "使女的故事",
+    "author": "Margaret Atwood",
+    "authorCn": "阿特伍德",
+    "nationality": "Canadian",
+    "isbn": "9780385490818",
+    "description": "一个女性被当作生育工具的极权社会。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "feminism"
+    ],
+    "tags": [
+      "dystopia",
+      "feminism",
+      "totalitarianism",
+      "canadian",
+      "oppression"
+    ],
+    "publishYear": 1985,
+    "pages": 311,
+    "relatedBookIds": [
+      "book-handmaid-testaments",
+      "book-1984",
+      "book-we"
+    ]
+  },
+  {
+    "id": "book-things-fall-apart",
+    "title": "Things Fall Apart",
+    "titleCn": "瓦解",
+    "author": "Chinua Achebe",
+    "authorCn": "阿切贝",
+    "nationality": "Nigerian",
+    "isbn": "9780385474542",
+    "description": "非洲伊博族文化在殖民主义冲击下的崩溃。",
+    "genre": [
+      "fiction",
+      "postcolonial",
+      "literary"
+    ],
+    "tags": [
+      "african",
+      "colonialism",
+      "culture",
+      "tragedy",
+      "tradition"
+    ],
+    "publishYear": 1958,
+    "pages": 209,
+    "relatedBookIds": [
+      "book-god-small-things",
+      "book-season-migration",
+      "book-disgrace"
+    ]
+  },
+  {
+    "id": "book-midnight-children",
+    "title": "Midnight's Children",
+    "titleCn": "午夜之子",
+    "author": "Salman Rushdie",
+    "authorCn": "拉什迪",
+    "nationality": "British-Indian",
+    "isbn": "9780812976533",
+    "description": "在印度独立的午夜出生的孩子们拥有神奇的能力。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "postcolonial"
+    ],
+    "tags": [
+      "indian",
+      "magical-realism",
+      "history",
+      "postcolonial",
+      "identity"
+    ],
+    "publishYear": 1981,
+    "pages": 536,
+    "relatedBookIds": [
+      "book-satanic-verses",
+      "book-god-small-things",
+      "book-famished-road"
+    ]
+  },
+  {
+    "id": "book-their-eyes-watching",
+    "title": "Their Eyes Were Watching God",
+    "titleCn": "他们眼望上帝",
+    "author": "Zora Neale Hurston",
+    "authorCn": "赫斯顿",
+    "nationality": "American",
+    "isbn": "9780060838676",
+    "description": "一个黑人女性寻找自我和爱情的旅程。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "african-american",
+      "feminism",
+      "love",
+      "identity",
+      "southern"
+    ],
+    "publishYear": 1937,
+    "pages": 219,
+    "relatedBookIds": [
+      "book-color-purple",
+      "book-invisible-man",
+      "book-go-tell-mountain"
+    ]
+  },
+  {
+    "id": "book-color-purple",
+    "title": "The Color Purple",
+    "titleCn": "紫色",
+    "author": "Alice Walker",
+    "authorCn": "艾丽丝·沃克",
+    "nationality": "American",
+    "isbn": "9780156028356",
+    "description": "一个黑人女性从苦难中成长的故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "feminism"
+    ],
+    "tags": [
+      "african-american",
+      "feminism",
+      "resilience",
+      "epistolary",
+      "southern"
+    ],
+    "publishYear": 1982,
+    "pages": 295,
+    "relatedBookIds": [
+      "book-their-eyes-watching",
+      "book-sula",
+      "book-awakening"
+    ]
+  },
+  {
+    "id": "book-beloved-country",
+    "title": "Cry, the Beloved Country",
+    "titleCn": "哭泣，亲爱的祖国",
+    "author": "Alan Paton",
+    "authorCn": "帕顿",
+    "nationality": "South African",
+    "isbn": "9780743262170",
+    "description": "南非种族隔离时期的悲剧。",
+    "genre": [
+      "fiction",
+      "social",
+      "literary"
+    ],
+    "tags": [
+      "south-african",
+      "apartheid",
+      "social-justice",
+      "tragedy",
+      "race"
+    ],
+    "publishYear": 1948,
+    "pages": 316,
+    "relatedBookIds": [
+      "book-house-mirth",
+      "book-american-pastoral",
+      "book-disgrace"
+    ]
+  },
+  {
+    "id": "book-tin-drum",
+    "title": "The Tin Drum",
+    "titleCn": "铁皮鼓",
+    "author": "Günter Grass",
+    "authorCn": "格拉斯",
+    "nationality": "German",
+    "isbn": "9780156028004",
+    "description": "一个拒绝长大的男孩眼中的纳粹德国。",
+    "genre": [
+      "fiction",
+      "historical",
+      "satire"
+    ],
+    "tags": [
+      "german",
+      "war",
+      "satire",
+      "magical-realism",
+      "nazi"
+    ],
+    "publishYear": 1959,
+    "pages": 591,
+    "relatedBookIds": [
+      "book-perfume",
+      "book-end-daylight",
+      "book-austerlitz"
+    ]
+  },
+  {
+    "id": "book-all-quiet-western",
+    "title": "All Quiet on the Western Front",
+    "titleCn": "西线无战事",
+    "author": "Erich Maria Remarque",
+    "authorCn": "雷马克",
+    "nationality": "German",
+    "isbn": "9780449213940",
+    "description": "一战壕沟中的德国士兵。反战文学的经典。",
+    "genre": [
+      "fiction",
+      "war",
+      "literary"
+    ],
+    "tags": [
+      "war",
+      "german",
+      "anti-war",
+      "wwi",
+      "tragedy"
+    ],
+    "publishYear": 1929,
+    "pages": 295,
+    "relatedBookIds": [
+      "book-farewell-arms",
+      "book-death-venice",
+      "book-magic-mountain"
+    ]
+  },
+  {
+    "id": "book-death-venice",
+    "title": "Death in Venice",
+    "titleCn": "魂断威尼斯",
+    "author": "Thomas Mann",
+    "authorCn": "托马斯·曼",
+    "nationality": "German",
+    "isbn": "9780060576608",
+    "description": "一个作家在威尼斯对美少年的痴迷。",
+    "genre": [
+      "fiction",
+      "literary",
+      "philosophical"
+    ],
+    "tags": [
+      "german",
+      "obsession",
+      "beauty",
+      "death",
+      "decadence"
+    ],
+    "publishYear": 1912,
+    "pages": 104,
+    "relatedBookIds": [
+      "book-magic-mountain",
+      "book-end-daylight",
+      "book-all-quiet-western"
+    ]
+  },
+  {
+    "id": "book-magic-mountain",
+    "title": "The Magic Mountain",
+    "titleCn": "魔山",
+    "author": "Thomas Mann",
+    "authorCn": "托马斯·曼",
+    "nationality": "German",
+    "isbn": "9780679772873",
+    "description": "一个年轻人在瘤病疗养院的七年。",
+    "genre": [
+      "fiction",
+      "philosophical",
+      "literary"
+    ],
+    "tags": [
+      "german",
+      "philosophy",
+      "time",
+      "illness",
+      "bildungsroman"
+    ],
+    "publishYear": 1924,
+    "pages": 706,
+    "relatedBookIds": [
+      "book-death-venice",
+      "book-all-quiet-western",
+      "book-siddhartha"
+    ]
+  },
+  {
+    "id": "book-siddhartha",
+    "title": "Siddhartha",
+    "titleCn": "惉达多",
+    "author": "Hermann Hesse",
+    "authorCn": "黑塞",
+    "nationality": "German-Swiss",
+    "isbn": "9780553208849",
+    "description": "一个年轻人寻找精神觉醒的旅程。",
+    "genre": [
+      "fiction",
+      "philosophical",
+      "spiritual"
+    ],
+    "tags": [
+      "spirituality",
+      "buddhism",
+      "journey",
+      "german",
+      "enlightenment"
+    ],
+    "publishYear": 1922,
+    "pages": 152,
+    "relatedBookIds": [
+      "book-steppenwolf",
+      "book-death-venice",
+      "book-magic-mountain"
+    ]
+  },
+  {
+    "id": "book-nausea",
+    "title": "Nausea",
+    "titleCn": "呕吐",
+    "author": "Jean-Paul Sartre",
+    "authorCn": "萨特",
+    "nationality": "French",
+    "isbn": "9780811220309",
+    "description": "一个男人对存在本身的恶心。萨特的存在主义小说。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "philosophical"
+    ],
+    "tags": [
+      "existentialism",
+      "french",
+      "philosophy",
+      "alienation",
+      "consciousness"
+    ],
+    "publishYear": 1938,
+    "pages": 178,
+    "relatedBookIds": [
+      "book-no-exit",
+      "book-fall",
+      "book-plague"
+    ]
+  },
+  {
+    "id": "book-fall",
+    "title": "The Fall",
+    "titleCn": "堕落",
+    "author": "Albert Camus",
+    "authorCn": "加缩",
+    "nationality": "French-Algerian",
+    "isbn": "9780679720225",
+    "description": "一个律师在阿姆斯特丹的酒吧里讲述自己的堕落。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "philosophical"
+    ],
+    "tags": [
+      "existentialism",
+      "french",
+      "guilt",
+      "confession",
+      "morality"
+    ],
+    "publishYear": 1956,
+    "pages": 147,
+    "relatedBookIds": [
+      "book-plague",
+      "book-stranger",
+      "book-nausea"
+    ]
+  },
+  {
+    "id": "book-no-exit",
+    "title": "No Exit",
+    "titleCn": "禁闭",
+    "author": "Jean-Paul Sartre",
+    "authorCn": "萨特",
+    "nationality": "French",
+    "isbn": "9780679725169",
+    "description": "三个人被关在一个房间里，这就是地狱。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "drama"
+    ],
+    "tags": [
+      "existentialism",
+      "french",
+      "hell",
+      "philosophy",
+      "relationships"
+    ],
+    "publishYear": 1944,
+    "pages": 61,
+    "relatedBookIds": [
+      "book-nausea",
+      "book-fall",
+      "book-plague"
+    ]
+  },
+  {
+    "id": "book-waiting-godot",
+    "title": "Waiting for Godot",
+    "titleCn": "等待戈多",
+    "author": "Samuel Beckett",
+    "authorCn": "贝克特",
+    "nationality": "Irish",
+    "isbn": "9780802144423",
+    "description": "两个人在等待一个永远不会来的人。",
+    "genre": [
+      "fiction",
+      "absurd",
+      "drama"
+    ],
+    "tags": [
+      "absurd",
+      "irish",
+      "existentialism",
+      "waiting",
+      "minimalism"
+    ],
+    "publishYear": 1953,
+    "pages": 109,
+    "relatedBookIds": [
+      "book-endgame",
+      "book-ulysses",
+      "book-trial"
+    ]
+  },
+  {
+    "id": "book-endgame",
+    "title": "Endgame",
+    "titleCn": "终局",
+    "author": "Samuel Beckett",
+    "authorCn": "贝克特",
+    "nationality": "Irish",
+    "isbn": "9780802144416",
+    "description": "四个人在一个封闭的房间里的最后时刻。",
+    "genre": [
+      "fiction",
+      "absurd",
+      "drama"
+    ],
+    "tags": [
+      "absurd",
+      "irish",
+      "existentialism",
+      "apocalyptic",
+      "minimalism"
+    ],
+    "publishYear": 1957,
+    "pages": 96,
+    "relatedBookIds": [
+      "book-waiting-godot",
+      "book-ulysses",
+      "book-trial"
+    ]
+  },
+  {
+    "id": "book-portrait-artist",
+    "title": "A Portrait of the Artist as a Young Man",
+    "titleCn": "一个青年艺术家的画像",
+    "author": "James Joyce",
+    "authorCn": "乔伊斯",
+    "nationality": "Irish",
+    "isbn": "9780142437346",
+    "description": "一个爱尔兰青年的艺术觉醒。",
+    "genre": [
+      "fiction",
+      "coming-of-age",
+      "modernism"
+    ],
+    "tags": [
+      "irish",
+      "artist",
+      "modernism",
+      "bildungsroman",
+      "religion"
+    ],
+    "publishYear": 1916,
+    "pages": 253,
+    "relatedBookIds": [
+      "book-ulysses",
+      "book-dubliners",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-dubliners",
+    "title": "Dubliners",
+    "titleCn": "都柏林人",
+    "author": "James Joyce",
+    "authorCn": "乔伊斯",
+    "nationality": "Irish",
+    "isbn": "9780142437339",
+    "description": "十五个关于都柏林人的短篇故事。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "modernism"
+    ],
+    "tags": [
+      "irish",
+      "short-stories",
+      "modernism",
+      "epiphany",
+      "realism"
+    ],
+    "publishYear": 1914,
+    "pages": 152,
+    "relatedBookIds": [
+      "book-ulysses",
+      "book-portrait-artist",
+      "book-winesburg-ohio"
+    ]
+  },
+  {
+    "id": "book-winesburg-ohio",
+    "title": "Winesburg, Ohio",
+    "titleCn": "小镇畸人",
+    "author": "Sherwood Anderson",
+    "authorCn": "安德森",
+    "nationality": "American",
+    "isbn": "9780140187755",
+    "description": "美国小镇上的孤独灵魂。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "small-town",
+      "loneliness",
+      "short-stories",
+      "modernism"
+    ],
+    "publishYear": 1919,
+    "pages": 247,
+    "relatedBookIds": [
+      "book-sound-fury",
+      "book-light-august",
+      "book-oblivion"
+    ]
+  },
+  {
+    "id": "book-death-salesman",
+    "title": "Death of a Salesman",
+    "titleCn": "推销员之死",
+    "author": "Arthur Miller",
+    "authorCn": "阿瑟·米勒",
+    "nationality": "American",
+    "isbn": "9780140481341",
+    "description": "一个失败的推销员的悲剧。",
+    "genre": [
+      "fiction",
+      "drama",
+      "tragedy"
+    ],
+    "tags": [
+      "american",
+      "american-dream",
+      "tragedy",
+      "family",
+      "failure"
+    ],
+    "publishYear": 1949,
+    "pages": 139,
+    "relatedBookIds": [
+      "book-streetcar-desire",
+      "book-american-pastoral",
+      "book-glass-menagerie"
+    ]
+  },
+  {
+    "id": "book-streetcar-desire",
+    "title": "A Streetcar Named Desire",
+    "titleCn": "欲望号街车",
+    "author": "Tennessee Williams",
+    "authorCn": "田纳西·威廉斯",
+    "nationality": "American",
+    "isbn": "9780811216029",
+    "description": "一个南方贵族女性的精神崩溃。",
+    "genre": [
+      "fiction",
+      "drama",
+      "tragedy"
+    ],
+    "tags": [
+      "american",
+      "southern",
+      "mental-illness",
+      "tragedy",
+      "desire"
+    ],
+    "publishYear": 1947,
+    "pages": 107,
+    "relatedBookIds": [
+      "book-glass-menagerie",
+      "book-death-salesman",
+      "book-of-mice-men"
+    ]
+  },
+  {
+    "id": "book-glass-menagerie",
+    "title": "The Glass Menagerie",
+    "titleCn": "玻璃动物园",
+    "author": "Tennessee Williams",
+    "authorCn": "田纳西·威廉斯",
+    "nationality": "American",
+    "isbn": "9780811214049",
+    "description": "一个破碎家庭的回忆。",
+    "genre": [
+      "fiction",
+      "drama",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "memory",
+      "family",
+      "fragility",
+      "southern"
+    ],
+    "publishYear": 1944,
+    "pages": 104,
+    "relatedBookIds": [
+      "book-streetcar-desire",
+      "book-sound-fury",
+      "book-death-salesman"
+    ]
+  },
+  {
+    "id": "book-as-i-lay-dying",
+    "title": "As I Lay Dying",
+    "titleCn": "我弥留之际",
+    "author": "William Faulkner",
+    "authorCn": "福克纳",
+    "nationality": "American",
+    "isbn": "9780679732259",
+    "description": "一个家庭运送母亲尸体的旅程。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "southern"
+    ],
+    "tags": [
+      "american",
+      "southern",
+      "death",
+      "family",
+      "experimental"
+    ],
+    "publishYear": 1930,
+    "pages": 267,
+    "relatedBookIds": [
+      "book-sound-fury",
+      "book-absalom-absalom",
+      "book-light-august"
+    ]
+  },
+  {
+    "id": "book-absalom-absalom",
+    "title": "Absalom, Absalom!",
+    "titleCn": "押沙龙，押沙龙！",
+    "author": "William Faulkner",
+    "authorCn": "福克纳",
+    "nationality": "American",
+    "isbn": "9780679732181",
+    "description": "南方一个家族的兴衰史。",
+    "genre": [
+      "fiction",
+      "southern",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "southern",
+      "history",
+      "race",
+      "gothic"
+    ],
+    "publishYear": 1936,
+    "pages": 313,
+    "relatedBookIds": [
+      "book-light-august",
+      "book-sound-fury",
+      "book-as-i-lay-dying"
+    ]
+  },
+  {
+    "id": "book-sun-also-rises",
+    "title": "The Sun Also Rises",
+    "titleCn": "太阳照常升起",
+    "author": "Ernest Hemingway",
+    "authorCn": "海明威",
+    "nationality": "American",
+    "isbn": "9780743297332",
+    "description": "一战后迷惘的一代在巴黎和西班牙。",
+    "genre": [
+      "fiction",
+      "literary",
+      "modernism"
+    ],
+    "tags": [
+      "american",
+      "lost-generation",
+      "expatriate",
+      "bullfighting",
+      "love"
+    ],
+    "publishYear": 1926,
+    "pages": 251,
+    "relatedBookIds": [
+      "book-old-man-sea",
+      "book-farewell-arms",
+      "book-for-whom-bell-tolls"
+    ]
+  },
+  {
+    "id": "book-farewell-arms",
+    "title": "A Farewell to Arms",
+    "titleCn": "永别了，武器",
+    "author": "Ernest Hemingway",
+    "authorCn": "海明威",
+    "nationality": "American",
+    "isbn": "9780684801469",
+    "description": "一战中的爱情与悲剧。",
+    "genre": [
+      "fiction",
+      "war",
+      "romance"
+    ],
+    "tags": [
+      "american",
+      "war",
+      "love",
+      "tragedy",
+      "wwi"
+    ],
+    "publishYear": 1929,
+    "pages": 332,
+    "relatedBookIds": [
+      "book-for-whom-bell-tolls",
+      "book-sun-also-rises",
+      "book-old-man-sea"
+    ]
+  },
+  {
+    "id": "book-old-man-sea",
+    "title": "The Old Man and the Sea",
+    "titleCn": "老人与海",
+    "author": "Ernest Hemingway",
+    "authorCn": "海明威",
+    "nationality": "American",
+    "isbn": "9780684801223",
+    "description": "一个老渔夫与大鱼的斗争。",
+    "genre": [
+      "fiction",
+      "literary",
+      "adventure"
+    ],
+    "tags": [
+      "american",
+      "perseverance",
+      "sea",
+      "struggle",
+      "minimalism"
+    ],
+    "publishYear": 1952,
+    "pages": 127,
+    "relatedBookIds": [
+      "book-sun-also-rises",
+      "book-farewell-arms",
+      "book-for-whom-bell-tolls"
+    ]
+  },
+  {
+    "id": "book-for-whom-bell-tolls",
+    "title": "For Whom the Bell Tolls",
+    "titleCn": "丧钟为谁而鸣",
+    "author": "Ernest Hemingway",
+    "authorCn": "海明威",
+    "nationality": "American",
+    "isbn": "9780684803357",
+    "description": "西班牙内战中的爱情与牺牲。",
+    "genre": [
+      "fiction",
+      "war",
+      "romance"
+    ],
+    "tags": [
+      "american",
+      "war",
+      "love",
+      "sacrifice",
+      "spanish-civil-war"
+    ],
+    "publishYear": 1940,
+    "pages": 471,
+    "relatedBookIds": [
+      "book-farewell-arms",
+      "book-sun-also-rises",
+      "book-old-man-sea"
+    ]
+  },
+  {
+    "id": "book-tender-night",
+    "title": "Tender Is the Night",
+    "titleCn": "夜色温柔",
+    "author": "F. Scott Fitzgerald",
+    "authorCn": "菲茨杰拉德",
+    "nationality": "American",
+    "isbn": "9780684801544",
+    "description": "一个精神医生和他的病人妻子。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "american",
+      "mental-illness",
+      "love",
+      "decline",
+      "expatriate"
+    ],
+    "publishYear": 1934,
+    "pages": 317,
+    "relatedBookIds": [
+      "book-great-gatsby",
+      "book-age-innocence",
+      "book-sun-also-rises"
+    ]
+  },
+  {
+    "id": "book-age-innocence",
+    "title": "The Age of Innocence",
+    "titleCn": "纯真年代",
+    "author": "Edith Wharton",
+    "authorCn": "伊迪丝·华顿",
+    "nationality": "American",
+    "isbn": "9780486298030",
+    "description": "纽约上流社会的爱情与约束。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "american",
+      "society",
+      "love",
+      "constraint",
+      "gilded-age"
+    ],
+    "publishYear": 1920,
+    "pages": 302,
+    "relatedBookIds": [
+      "book-house-mirth",
+      "book-great-gatsby",
+      "book-tender-night"
+    ]
+  },
+  {
+    "id": "book-house-mirth",
+    "title": "The House of Mirth",
+    "titleCn": "欢乐之家",
+    "author": "Edith Wharton",
+    "authorCn": "伊迪丝·华顿",
+    "nationality": "American",
+    "isbn": "9780486420493",
+    "description": "一个女人在上流社会的没落。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "american",
+      "society",
+      "tragedy",
+      "women",
+      "gilded-age"
+    ],
+    "publishYear": 1905,
+    "pages": 329,
+    "relatedBookIds": [
+      "book-age-innocence",
+      "book-american-pastoral",
+      "book-invisible-man"
+    ]
+  },
+  {
+    "id": "book-awakening",
+    "title": "The Awakening",
+    "titleCn": "觉醒",
+    "author": "Kate Chopin",
+    "authorCn": "凯特·肖邦",
+    "nationality": "American",
+    "isbn": "9780486277868",
+    "description": "一个女人对婚姻和社会约杞的反抗。",
+    "genre": [
+      "fiction",
+      "feminism",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "feminism",
+      "awakening",
+      "tragedy",
+      "southern"
+    ],
+    "publishYear": 1899,
+    "pages": 132,
+    "relatedBookIds": [
+      "book-sound-fury",
+      "book-great-gatsby",
+      "book-color-purple"
+    ]
+  },
+  {
+    "id": "book-scarlet-letter",
+    "title": "The Scarlet Letter",
+    "titleCn": "红字",
+    "author": "Nathaniel Hawthorne",
+    "authorCn": "霍桑",
+    "nationality": "American",
+    "isbn": "9780142437261",
+    "description": "清教徒社会中的通奸与罪恶。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "american",
+      "sin",
+      "puritan",
+      "guilt",
+      "symbolism"
+    ],
+    "publishYear": 1850,
+    "pages": 238,
+    "relatedBookIds": [
+      "book-amazing-adventures",
+      "book-angle-repose",
+      "book-north-woods"
+    ]
+  },
+  {
+    "id": "book-adventures-huck-finn",
+    "title": "Adventures of Huckleberry Finn",
+    "titleCn": "哈克贝利·芬历险记",
+    "author": "Mark Twain",
+    "authorCn": "马克·吐温",
+    "nationality": "American",
+    "isbn": "9780486280615",
+    "description": "一个男孩和一个逃亡奴隶的密西西比河之旅。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "satire"
+    ],
+    "tags": [
+      "american",
+      "adventure",
+      "race",
+      "freedom",
+      "satire"
+    ],
+    "publishYear": 1884,
+    "pages": 366,
+    "relatedBookIds": [
+      "book-catch-22",
+      "book-don-quixote",
+      "book-slaughterhouse-five"
+    ]
+  },
+  {
+    "id": "book-call-wild",
+    "title": "The Call of the Wild",
+    "titleCn": "野性的呼唤",
+    "author": "Jack London",
+    "authorCn": "杰克·伦敦",
+    "nationality": "American",
+    "isbn": "9780486264721",
+    "description": "一条狗从文明回归野性的故事。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "nature"
+    ],
+    "tags": [
+      "american",
+      "nature",
+      "survival",
+      "animal",
+      "wilderness"
+    ],
+    "publishYear": 1903,
+    "pages": 232,
+    "relatedBookIds": [
+      "book-moby-dick",
+      "book-on-the-road",
+      "book-old-man-sea"
+    ]
+  },
+  {
+    "id": "book-of-mice-men",
+    "title": "Of Mice and Men",
+    "titleCn": "人鼠之间",
+    "author": "John Steinbeck",
+    "authorCn": "斯坦贝克",
+    "nationality": "American",
+    "isbn": "9780140177398",
+    "description": "两个流浪工人的梦想与悲剧。",
+    "genre": [
+      "fiction",
+      "tragedy",
+      "social"
+    ],
+    "tags": [
+      "american",
+      "friendship",
+      "dreams",
+      "tragedy",
+      "depression"
+    ],
+    "publishYear": 1937,
+    "pages": 107,
+    "relatedBookIds": [
+      "book-grapes-wrath",
+      "book-east-eden",
+      "book-death-salesman"
+    ]
+  },
+  {
+    "id": "book-east-eden",
+    "title": "East of Eden",
+    "titleCn": "伊甸之东",
+    "author": "John Steinbeck",
+    "authorCn": "斯坦贝克",
+    "nationality": "American",
+    "isbn": "9780142000656",
+    "description": "两个家族的世代纠葛，重述了该隐与亚伯的故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "epic"
+    ],
+    "tags": [
+      "american",
+      "family",
+      "good-evil",
+      "biblical",
+      "california"
+    ],
+    "publishYear": 1952,
+    "pages": 601,
+    "relatedBookIds": [
+      "book-grapes-wrath",
+      "book-of-mice-men",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-to-kill-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "titleCn": "杀死一只知更鸟",
+    "author": "Harper Lee",
+    "authorCn": "哈珀·李",
+    "nationality": "American",
+    "isbn": "9780061120084",
+    "description": "南方小镇上的种族不公与道德勇气。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "american",
+      "racism",
+      "justice",
+      "southern",
+      "childhood"
+    ],
+    "publishYear": 1960,
+    "pages": 324,
+    "relatedBookIds": [
+      "book-invisible-man",
+      "book-native-son",
+      "book-house-mirth"
+    ]
+  },
+  {
+    "id": "book-native-son",
+    "title": "Native Son",
+    "titleCn": "土生子",
+    "author": "Richard Wright",
+    "authorCn": "理查德·赖特",
+    "nationality": "American",
+    "isbn": "9780061148507",
+    "description": "一个黑人青年在苝加哥的悲剧。",
+    "genre": [
+      "fiction",
+      "social",
+      "literary"
+    ],
+    "tags": [
+      "african-american",
+      "racism",
+      "violence",
+      "american",
+      "social"
+    ],
+    "publishYear": 1940,
+    "pages": 504,
+    "relatedBookIds": [
+      "book-invisible-man",
+      "book-to-kill-mockingbird",
+      "book-house-mirth"
+    ]
+  },
+  {
+    "id": "book-go-tell-mountain",
+    "title": "Go Tell It on the Mountain",
+    "titleCn": "向苍天呼吁",
+    "author": "James Baldwin",
+    "authorCn": "詹姆斯·鲍尔温",
+    "nationality": "American",
+    "isbn": "9780345806567",
+    "description": "一个黑人家庭的宗教与身份认同。",
+    "genre": [
+      "fiction",
+      "literary",
+      "coming-of-age"
+    ],
+    "tags": [
+      "african-american",
+      "religion",
+      "identity",
+      "harlem",
+      "family"
+    ],
+    "publishYear": 1953,
+    "pages": 256,
+    "relatedBookIds": [
+      "book-giovannis-room",
+      "book-beloved-toni",
+      "book-invisible-man"
+    ]
+  },
+  {
+    "id": "book-giovannis-room",
+    "title": "Giovanni's Room",
+    "titleCn": "乔万尼的房间",
+    "author": "James Baldwin",
+    "authorCn": "詹姆斯·鲍尔温",
+    "nationality": "American",
+    "isbn": "9780345806567",
+    "description": "一个美国人在巴黎的同性爱情。",
+    "genre": [
+      "fiction",
+      "literary",
+      "lgbtq"
+    ],
+    "tags": [
+      "lgbtq",
+      "love",
+      "identity",
+      "paris",
+      "tragedy"
+    ],
+    "publishYear": 1956,
+    "pages": 159,
+    "relatedBookIds": [
+      "book-go-tell-mountain",
+      "book-great-gatsby",
+      "book-anna-karenina"
+    ]
+  },
+  {
+    "id": "book-white-teeth",
+    "title": "White Teeth",
+    "titleCn": "白牙",
+    "author": "Zadie Smith",
+    "authorCn": "扎迪·史密斯",
+    "nationality": "British",
+    "isbn": "9780375703867",
+    "description": "伦敦移民家庭的多代故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "multicultural"
+    ],
+    "tags": [
+      "british",
+      "immigration",
+      "identity",
+      "multicultural",
+      "family"
+    ],
+    "publishYear": 2000,
+    "pages": 448,
+    "relatedBookIds": [
+      "book-to-lighthouse",
+      "book-brief-wondrous-life",
+      "book-namesake"
+    ]
+  },
+  {
+    "id": "book-atonement",
+    "title": "Atonement",
+    "titleCn": "赎罪",
+    "author": "Ian McEwan",
+    "authorCn": "伊恩·麦克万",
+    "nationality": "British",
+    "isbn": "9780385721790",
+    "description": "一个谎言改变了三个人的一生。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "british",
+      "guilt",
+      "war",
+      "love",
+      "metafiction"
+    ],
+    "publishYear": 2001,
+    "pages": 351,
+    "relatedBookIds": [
+      "book-pride-prejudice",
+      "book-reader",
+      "book-remains-of-day"
+    ]
+  },
+  {
+    "id": "book-never-let-me-go",
+    "title": "Never Let Me Go",
+    "titleCn": "别让我走",
+    "author": "Kazuo Ishiguro",
+    "authorCn": "石黑一雄",
+    "nationality": "British-Japanese",
+    "isbn": "9781400078776",
+    "description": "三个克隆人的成长与命运。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "literary"
+    ],
+    "tags": [
+      "dystopia",
+      "clones",
+      "mortality",
+      "british",
+      "memory"
+    ],
+    "publishYear": 2005,
+    "pages": 288,
+    "relatedBookIds": [
+      "book-buried-giant",
+      "book-remains-of-day",
+      "book-remains-day-ishiguro"
+    ]
+  },
+  {
+    "id": "book-life-pi",
+    "title": "Life of Pi",
+    "titleCn": "少年Pi的奇幻漂流",
+    "author": "Yann Martel",
+    "authorCn": "扬·马特尔",
+    "nationality": "Canadian",
+    "isbn": "9780156027328",
+    "description": "一个男孩和一只老虎在海上漂流。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "philosophical"
+    ],
+    "tags": [
+      "survival",
+      "faith",
+      "adventure",
+      "canadian",
+      "allegory"
+    ],
+    "publishYear": 2001,
+    "pages": 319,
+    "relatedBookIds": [
+      "book-don-quixote",
+      "book-handmaids-tale",
+      "book-adventures-huck-finn"
+    ]
+  },
+  {
+    "id": "book-english-patient",
+    "title": "The English Patient",
+    "titleCn": "英国病人",
+    "author": "Michael Ondaatje",
+    "authorCn": "翁达杰",
+    "nationality": "Canadian",
+    "isbn": "9780679745204",
+    "description": "二战末期意大利别墅里的四个人。",
+    "genre": [
+      "fiction",
+      "war",
+      "literary"
+    ],
+    "tags": [
+      "war",
+      "love",
+      "memory",
+      "canadian",
+      "poetic"
+    ],
+    "publishYear": 1992,
+    "pages": 307,
+    "relatedBookIds": [
+      "book-all-quiet-western",
+      "book-farewell-arms",
+      "book-for-whom-bell-tolls"
+    ]
+  },
+  {
+    "id": "book-kite-runner",
+    "title": "The Kite Runner",
+    "titleCn": "追风筝的人",
+    "author": "Khaled Hosseini",
+    "authorCn": "卡勒德·胡赛尼",
+    "nationality": "Afghan-American",
+    "isbn": "9781594631931",
+    "description": "阿富汗两个男孩的友谊与背叛。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "afghanistan",
+      "friendship",
+      "redemption",
+      "betrayal",
+      "war"
+    ],
+    "publishYear": 2003,
+    "pages": 371,
+    "relatedBookIds": [
+      "book-atonement",
+      "book-amazing-adventures",
+      "book-remains-day-ishiguro"
+    ]
+  },
+  {
+    "id": "book-god-small-things",
+    "title": "The God of Small Things",
+    "titleCn": "微物之神",
+    "author": "Arundhati Roy",
+    "authorCn": "阿伦达蒂·洛伊",
+    "nationality": "Indian",
+    "isbn": "9780812979657",
+    "description": "印度一个家庭的秘密与悲剧。",
+    "genre": [
+      "fiction",
+      "literary",
+      "postcolonial"
+    ],
+    "tags": [
+      "indian",
+      "family",
+      "caste",
+      "love",
+      "tragedy"
+    ],
+    "publishYear": 1997,
+    "pages": 340,
+    "relatedBookIds": [
+      "book-things-fall-apart",
+      "book-midnight-children",
+      "book-great-gatsby"
+    ]
+  },
+  {
+    "id": "book-white-tiger",
+    "title": "The White Tiger",
+    "titleCn": "白老虎",
+    "author": "Aravind Adiga",
+    "authorCn": "阿拉文德·阿迪加",
+    "nationality": "Indian",
+    "isbn": "9781416562603",
+    "description": "一个印度穷人的逆袭之路。",
+    "genre": [
+      "fiction",
+      "social",
+      "satire"
+    ],
+    "tags": [
+      "indian",
+      "class",
+      "corruption",
+      "ambition",
+      "satire"
+    ],
+    "publishYear": 2008,
+    "pages": 276,
+    "relatedBookIds": [
+      "book-master-margarita",
+      "book-catch-22",
+      "book-don-quixote"
+    ]
+  },
+  {
+    "id": "book-namesake",
+    "title": "The Namesake",
+    "titleCn": "同名人",
+    "author": "Jhumpa Lahiri",
+    "authorCn": "裘帕·拉希莉",
+    "nationality": "American-Indian",
+    "isbn": "9780618485222",
+    "description": "一个印度移民家庭在美国的生活。",
+    "genre": [
+      "fiction",
+      "literary",
+      "immigration"
+    ],
+    "tags": [
+      "immigration",
+      "identity",
+      "family",
+      "indian-american",
+      "belonging"
+    ],
+    "publishYear": 2003,
+    "pages": 291,
+    "relatedBookIds": [
+      "book-interpreter-maladies",
+      "book-americanah",
+      "book-white-teeth"
+    ]
+  },
+  {
+    "id": "book-interpreter-maladies",
+    "title": "Interpreter of Maladies",
+    "titleCn": "疾病解读者",
+    "author": "Jhumpa Lahiri",
+    "authorCn": "裘帕·拉希莉",
+    "nationality": "American-Indian",
+    "isbn": "9780618103669",
+    "description": "关于印度移民的短篇小说集。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "literary"
+    ],
+    "tags": [
+      "immigration",
+      "indian-american",
+      "short-stories",
+      "displacement",
+      "marriage"
+    ],
+    "publishYear": 1999,
+    "pages": 198,
+    "relatedBookIds": [
+      "book-namesake",
+      "book-winesburg-ohio",
+      "book-pride-prejudice"
+    ]
+  },
+  {
+    "id": "book-brief-wondrous-life",
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "titleCn": "奥斯卡·瓦奥的奇妙一生",
+    "author": "Junot Díaz",
+    "authorCn": "胡诺特·迪亚斯",
+    "nationality": "Dominican-American",
+    "isbn": "9781594483295",
+    "description": "一个多米尼加家庭的诅咒与命运。",
+    "genre": [
+      "fiction",
+      "literary",
+      "multicultural"
+    ],
+    "tags": [
+      "dominican",
+      "family",
+      "curse",
+      "nerd",
+      "immigration"
+    ],
+    "publishYear": 2007,
+    "pages": 335,
+    "relatedBookIds": [
+      "book-white-teeth",
+      "book-namesake",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-corrections",
+    "title": "The Corrections",
+    "titleCn": "修正",
+    "author": "Jonathan Franzen",
+    "authorCn": "弗兰粛",
+    "nationality": "American",
+    "isbn": "9780312421274",
+    "description": "一个中西部家庭的崩溃与重聚。",
+    "genre": [
+      "fiction",
+      "literary",
+      "family"
+    ],
+    "tags": [
+      "american",
+      "family",
+      "dysfunction",
+      "contemporary",
+      "satire"
+    ],
+    "publishYear": 2001,
+    "pages": 568,
+    "relatedBookIds": [
+      "book-housekeeping",
+      "book-middlesex",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-amazing-adventures",
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "titleCn": "卡瓦利与克莱的惊奇冒险",
+    "author": "Michael Chabon",
+    "authorCn": "迈克尔·夏邦",
+    "nationality": "American",
+    "isbn": "9780312282998",
+    "description": "两个犹太青年在纽约创作漫画的故事。",
+    "genre": [
+      "fiction",
+      "historical",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "comics",
+      "jewish",
+      "wwii",
+      "friendship"
+    ],
+    "publishYear": 2000,
+    "pages": 639,
+    "relatedBookIds": [
+      "book-scarlet-letter",
+      "book-angle-repose",
+      "book-north-woods"
+    ]
+  },
+  {
+    "id": "book-road",
+    "title": "The Road",
+    "titleCn": "路",
+    "author": "Cormac McCarthy",
+    "authorCn": "麦卡锡",
+    "nationality": "American",
+    "isbn": "9780307387899",
+    "description": "父子二人在末日后的世界中求生。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "literary"
+    ],
+    "tags": [
+      "apocalyptic",
+      "father-son",
+      "survival",
+      "american",
+      "bleak"
+    ],
+    "publishYear": 2006,
+    "pages": 287,
+    "relatedBookIds": [
+      "book-blood-meridian",
+      "book-all-pretty-horses",
+      "book-gilead"
+    ]
+  },
+  {
+    "id": "book-blood-meridian",
+    "title": "Blood Meridian",
+    "titleCn": "血色子午线",
+    "author": "Cormac McCarthy",
+    "authorCn": "麦卡锡",
+    "nationality": "American",
+    "isbn": "9780679728757",
+    "description": "美国西部的暴力与死亡。",
+    "genre": [
+      "fiction",
+      "western",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "violence",
+      "western",
+      "philosophical",
+      "dark"
+    ],
+    "publishYear": 1985,
+    "pages": 337,
+    "relatedBookIds": [
+      "book-all-pretty-horses",
+      "book-road",
+      "book-native-son"
+    ]
+  },
+  {
+    "id": "book-all-pretty-horses",
+    "title": "All the Pretty Horses",
+    "titleCn": "群马",
+    "author": "Cormac McCarthy",
+    "authorCn": "麦卡锡",
+    "nationality": "American",
+    "isbn": "9780679744399",
+    "description": "两个得州青年骑马去墨西哥。",
+    "genre": [
+      "fiction",
+      "western",
+      "adventure"
+    ],
+    "tags": [
+      "american",
+      "western",
+      "horses",
+      "coming-of-age",
+      "mexico"
+    ],
+    "publishYear": 1992,
+    "pages": 302,
+    "relatedBookIds": [
+      "book-blood-meridian",
+      "book-road",
+      "book-moby-dick"
+    ]
+  },
+  {
+    "id": "book-gilead",
+    "title": "Gilead",
+    "titleCn": "基列",
+    "author": "Marilynne Robinson",
+    "authorCn": "玛丽莲·罗宾逊",
+    "nationality": "American",
+    "isbn": "9780312424404",
+    "description": "一个老牧师给儿子写的信。",
+    "genre": [
+      "fiction",
+      "literary",
+      "spiritual"
+    ],
+    "tags": [
+      "american",
+      "faith",
+      "father-son",
+      "epistolary",
+      "quiet"
+    ],
+    "publishYear": 2004,
+    "pages": 247,
+    "relatedBookIds": [
+      "book-housekeeping",
+      "book-road",
+      "book-lolita"
+    ]
+  },
+  {
+    "id": "book-housekeeping",
+    "title": "Housekeeping",
+    "titleCn": "家政",
+    "author": "Marilynne Robinson",
+    "authorCn": "玛丽莲·罗宾逊",
+    "nationality": "American",
+    "isbn": "9780312424091",
+    "description": "两个姐妹和她们古怪的姨妈。",
+    "genre": [
+      "fiction",
+      "literary",
+      "family"
+    ],
+    "tags": [
+      "american",
+      "family",
+      "loss",
+      "nature",
+      "poetic"
+    ],
+    "publishYear": 1980,
+    "pages": 219,
+    "relatedBookIds": [
+      "book-gilead",
+      "book-corrections",
+      "book-middlesex"
+    ]
+  },
+  {
+    "id": "book-underworld",
+    "title": "Underworld",
+    "titleCn": "地下世界",
+    "author": "Don DeLillo",
+    "authorCn": "唐·德里罗",
+    "nationality": "American",
+    "isbn": "9780684848150",
+    "description": "冷战时期的美国社会全景。",
+    "genre": [
+      "fiction",
+      "literary",
+      "postmodern"
+    ],
+    "tags": [
+      "american",
+      "cold-war",
+      "postmodern",
+      "epic",
+      "culture"
+    ],
+    "publishYear": 1997,
+    "pages": 827,
+    "relatedBookIds": [
+      "book-white-noise",
+      "book-infinite-jest",
+      "book-moby-dick"
+    ]
+  },
+  {
+    "id": "book-white-noise",
+    "title": "White Noise",
+    "titleCn": "白噪音",
+    "author": "Don DeLillo",
+    "authorCn": "唐·德里罗",
+    "nationality": "American",
+    "isbn": "9780140077025",
+    "description": "一个家庭面对现代生活的恐惧。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "satire"
+    ],
+    "tags": [
+      "american",
+      "postmodern",
+      "death",
+      "consumerism",
+      "satire"
+    ],
+    "publishYear": 1985,
+    "pages": 326,
+    "relatedBookIds": [
+      "book-underworld",
+      "book-catch-22",
+      "book-slaughterhouse-five"
+    ]
+  },
+  {
+    "id": "book-infinite-jest",
+    "title": "Infinite Jest",
+    "titleCn": "无尽的玩笑",
+    "author": "David Foster Wallace",
+    "authorCn": "大卫·福斯特·华莱士",
+    "nationality": "American",
+    "isbn": "9780316066525",
+    "description": "一部关于成瘾、娱乐和美国文化的巨著。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "postmodern",
+      "addiction",
+      "tennis",
+      "experimental"
+    ],
+    "publishYear": 1996,
+    "pages": 1079,
+    "relatedBookIds": [
+      "book-oblivion",
+      "book-underworld",
+      "book-gravity-rainbow"
+    ]
+  },
+  {
+    "id": "book-gravity-rainbow",
+    "title": "Gravity's Rainbow",
+    "titleCn": "万有引力之虹",
+    "author": "Thomas Pynchon",
+    "authorCn": "托马斯·品钦",
+    "nationality": "American",
+    "isbn": "9780143039945",
+    "description": "二战末期的复杂叙事。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "historical"
+    ],
+    "tags": [
+      "american",
+      "postmodern",
+      "war",
+      "paranoia",
+      "experimental"
+    ],
+    "publishYear": 1973,
+    "pages": 776,
+    "relatedBookIds": [
+      "book-crying-lot-49",
+      "book-infinite-jest",
+      "book-oblivion"
+    ]
+  },
+  {
+    "id": "book-crying-lot-49",
+    "title": "The Crying of Lot 49",
+    "titleCn": "拍卖第49批",
+    "author": "Thomas Pynchon",
+    "authorCn": "托马斯·品钦",
+    "nationality": "American",
+    "isbn": "9780060913076",
+    "description": "一个女人卷入了一个神秘的阴谋。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "mystery"
+    ],
+    "tags": [
+      "american",
+      "postmodern",
+      "paranoia",
+      "conspiracy",
+      "short"
+    ],
+    "publishYear": 1966,
+    "pages": 152,
+    "relatedBookIds": [
+      "book-gravity-rainbow",
+      "book-underworld",
+      "book-white-noise"
+    ]
+  },
+  {
+    "id": "book-pale-fire",
+    "title": "Pale Fire",
+    "titleCn": "微暗的火",
+    "author": "Vladimir Nabokov",
+    "authorCn": "纳博科夫",
+    "nationality": "Russian-American",
+    "isbn": "9780679723424",
+    "description": "一首诗和一个疯狂的注释。",
+    "genre": [
+      "fiction",
+      "postmodern",
+      "metafiction"
+    ],
+    "tags": [
+      "postmodern",
+      "metafiction",
+      "unreliable-narrator",
+      "poetry",
+      "experimental"
+    ],
+    "publishYear": 1962,
+    "pages": 315,
+    "relatedBookIds": [
+      "book-lolita",
+      "book-ada",
+      "book-if-on-a-winters-night"
+    ]
+  },
+  {
+    "id": "book-ada",
+    "title": "Ada or Ardor",
+    "titleCn": "阿达",
+    "author": "Vladimir Nabokov",
+    "authorCn": "纳博科夫",
+    "nationality": "Russian-American",
+    "isbn": "9780679725220",
+    "description": "一个平行世界里的乱伦爱情。",
+    "genre": [
+      "fiction",
+      "literary",
+      "experimental"
+    ],
+    "tags": [
+      "experimental",
+      "incest",
+      "time",
+      "memory",
+      "complex"
+    ],
+    "publishYear": 1969,
+    "pages": 589,
+    "relatedBookIds": [
+      "book-lolita",
+      "book-pale-fire",
+      "book-in-search-lost-time"
+    ]
+  },
+  {
+    "id": "book-2666",
+    "title": "2666",
+    "titleCn": "2666",
+    "author": "Roberto Bolaño",
+    "authorCn": "波拉尼奥",
+    "nationality": "Chilean",
+    "isbn": "9780312429218",
+    "description": "五个相互关联的故事，涉及文学、暴力和死亡。",
+    "genre": [
+      "fiction",
+      "literary",
+      "postmodern"
+    ],
+    "tags": [
+      "chilean",
+      "violence",
+      "literary",
+      "epic",
+      "dark"
+    ],
+    "publishYear": 2004,
+    "pages": 893,
+    "relatedBookIds": [
+      "book-savage-detectives",
+      "book-underworld",
+      "book-blood-meridian"
+    ]
+  },
+  {
+    "id": "book-savage-detectives",
+    "title": "The Savage Detectives",
+    "titleCn": "荒野侦探",
+    "author": "Roberto Bolaño",
+    "authorCn": "波拉尼奥",
+    "nationality": "Chilean",
+    "isbn": "9780312427481",
+    "description": "两个诗人在拉丁美洲的流浪。",
+    "genre": [
+      "fiction",
+      "literary",
+      "adventure"
+    ],
+    "tags": [
+      "chilean",
+      "poetry",
+      "bohemian",
+      "latin-american",
+      "experimental"
+    ],
+    "publishYear": 1998,
+    "pages": 577,
+    "relatedBookIds": [
+      "book-2666",
+      "book-love-time-cholera",
+      "book-general-labyrinth"
+    ]
+  },
+  {
+    "id": "book-house-spirits",
+    "title": "The House of the Spirits",
+    "titleCn": "灵魂之家",
+    "author": "Isabel Allende",
+    "authorCn": "伊莎贝尔·阿连德",
+    "nationality": "Chilean",
+    "isbn": "9781501117015",
+    "description": "智利一个家族的三代女性。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "family"
+    ],
+    "tags": [
+      "chilean",
+      "magical-realism",
+      "family",
+      "women",
+      "political"
+    ],
+    "publishYear": 1982,
+    "pages": 448,
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-midnight-children",
+      "book-corrections"
+    ]
+  },
+  {
+    "id": "book-love-time-cholera",
+    "title": "Love in the Time of Cholera",
+    "titleCn": "霍乱时期的爱情",
+    "author": "Gabriel García Márquez",
+    "authorCn": "马尔克斯",
+    "nationality": "Colombian",
+    "isbn": "9780307389732",
+    "description": "一个男人等了五十年的爱情。",
+    "genre": [
+      "fiction",
+      "romance",
+      "literary"
+    ],
+    "tags": [
+      "latin-american",
+      "love",
+      "aging",
+      "patience",
+      "magical-realism"
+    ],
+    "publishYear": 1985,
+    "pages": 348,
+    "relatedBookIds": [
+      "book-general-labyrinth",
+      "book-hundred-years",
+      "book-autumn-patriarch"
+    ]
+  },
+  {
+    "id": "book-autumn-patriarch",
+    "title": "The Autumn of the Patriarch",
+    "titleCn": "家长的秋天",
+    "author": "Gabriel García Márquez",
+    "authorCn": "马尔克斯",
+    "nationality": "Colombian",
+    "isbn": "9780060882860",
+    "description": "一个独裁者的衰老与死亡。",
+    "genre": [
+      "fiction",
+      "political",
+      "magical-realism"
+    ],
+    "tags": [
+      "latin-american",
+      "dictator",
+      "power",
+      "magical-realism",
+      "experimental"
+    ],
+    "publishYear": 1975,
+    "pages": 269,
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-love-time-cholera",
+      "book-general-labyrinth"
+    ]
+  },
+  {
+    "id": "book-hopscotch",
+    "title": "Hopscotch",
+    "titleCn": "跳房子",
+    "author": "Julio Cortázar",
+    "authorCn": "科塔萨尔",
+    "nationality": "Argentine",
+    "isbn": "9780394752846",
+    "description": "一部可以以不同顺序阅读的小说。",
+    "genre": [
+      "fiction",
+      "experimental",
+      "postmodern"
+    ],
+    "tags": [
+      "argentine",
+      "experimental",
+      "postmodern",
+      "paris",
+      "playful"
+    ],
+    "publishYear": 1963,
+    "pages": 564,
+    "relatedBookIds": [
+      "book-if-on-a-winters-night",
+      "book-infinite-jest",
+      "book-gravity-rainbow"
+    ]
+  },
+  {
+    "id": "book-ficciones",
+    "title": "Ficciones",
+    "titleCn": "虚构集",
+    "author": "Jorge Luis Borges",
+    "authorCn": "博尔赫斯",
+    "nationality": "Argentine",
+    "isbn": "9780802130303",
+    "description": "博尔赫斯的短篇小说集，充满迷宫、图书馆和哲学。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "philosophical"
+    ],
+    "tags": [
+      "argentine",
+      "metaphysical",
+      "labyrinth",
+      "short-stories",
+      "philosophical"
+    ],
+    "publishYear": 1944,
+    "pages": 174,
+    "relatedBookIds": [
+      "book-labyrinths",
+      "book-dubliners",
+      "book-winesburg-ohio"
+    ]
+  },
+  {
+    "id": "book-labyrinths",
+    "title": "Labyrinths",
+    "titleCn": "迷宫",
+    "author": "Jorge Luis Borges",
+    "authorCn": "博尔赫斯",
+    "nationality": "Argentine",
+    "isbn": "9780811216999",
+    "description": "博尔赫斯的短篇小说和论文集。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "philosophical"
+    ],
+    "tags": [
+      "argentine",
+      "metaphysical",
+      "time",
+      "infinity",
+      "literary"
+    ],
+    "publishYear": 1962,
+    "pages": 256,
+    "relatedBookIds": [
+      "book-ficciones",
+      "book-magic-mountain",
+      "book-hopscotch"
+    ]
+  },
+  {
+    "id": "book-pedro-paramo",
+    "title": "Pedro Páramo",
+    "titleCn": "佩德罗·巴拉莫",
+    "author": "Juan Rulfo",
+    "authorCn": "胡安·鲁尔福",
+    "nationality": "Mexican",
+    "isbn": "9780802133908",
+    "description": "一个男人回到故乡，发现那里全是鬼魂。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "literary"
+    ],
+    "tags": [
+      "mexican",
+      "magical-realism",
+      "death",
+      "ghost",
+      "fragmented"
+    ],
+    "publishYear": 1955,
+    "pages": 124,
+    "relatedBookIds": [
+      "book-death-artemio-cruz",
+      "book-kafka-shore",
+      "book-wind-up-bird"
+    ]
+  },
+  {
+    "id": "book-death-artemio-cruz",
+    "title": "The Death of Artemio Cruz",
+    "titleCn": "阿特米奥·克鲁斯之死",
+    "author": "Carlos Fuentes",
+    "authorCn": "卡洛斯·富埃特斯",
+    "nationality": "Mexican",
+    "isbn": "9780374530389",
+    "description": "一个墨西哥大亨在临终前的回忆。",
+    "genre": [
+      "fiction",
+      "literary",
+      "political"
+    ],
+    "tags": [
+      "mexican",
+      "revolution",
+      "memory",
+      "power",
+      "experimental"
+    ],
+    "publishYear": 1962,
+    "pages": 307,
+    "relatedBookIds": [
+      "book-pedro-paramo",
+      "book-ada",
+      "book-autumn-patriarch"
+    ]
+  },
+  {
+    "id": "book-tunnel",
+    "title": "The Tunnel",
+    "titleCn": "隗道",
+    "author": "Ernesto Sabato",
+    "authorCn": "萨巴托",
+    "nationality": "Argentine",
+    "isbn": "9780345803917",
+    "description": "一个画家杀了他爱的女人。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "existentialism"
+    ],
+    "tags": [
+      "argentine",
+      "obsession",
+      "murder",
+      "existential",
+      "psychological"
+    ],
+    "publishYear": 1948,
+    "pages": 142,
+    "relatedBookIds": [
+      "book-stranger",
+      "book-steppenwolf",
+      "book-lolita"
+    ]
+  },
+  {
+    "id": "book-kiss-spider-woman",
+    "title": "Kiss of the Spider Woman",
+    "titleCn": "蜘蛛女之吻",
+    "author": "Manuel Puig",
+    "authorCn": "普伊格",
+    "nationality": "Argentine",
+    "isbn": "9780679724490",
+    "description": "两个狱友的对话和友谊。",
+    "genre": [
+      "fiction",
+      "lgbtq",
+      "political"
+    ],
+    "tags": [
+      "argentine",
+      "lgbtq",
+      "prison",
+      "friendship",
+      "dialogue"
+    ],
+    "publishYear": 1976,
+    "pages": 281,
+    "relatedBookIds": [
+      "book-giovannis-room",
+      "book-hopscotch",
+      "book-ficciones"
+    ]
+  },
+  {
+    "id": "book-general-labyrinth",
+    "title": "The General in His Labyrinth",
+    "titleCn": "迷宫中的将军",
+    "author": "Gabriel García Márquez",
+    "authorCn": "马尔克斯",
+    "nationality": "Colombian",
+    "isbn": "9781400034963",
+    "description": "西蒙·玻利瓦尔的最后日子。",
+    "genre": [
+      "fiction",
+      "historical",
+      "literary"
+    ],
+    "tags": [
+      "latin-american",
+      "bolivar",
+      "history",
+      "decline",
+      "political"
+    ],
+    "publishYear": 1989,
+    "pages": 285,
+    "relatedBookIds": [
+      "book-love-time-cholera",
+      "book-hundred-years",
+      "book-autumn-patriarch"
+    ]
+  },
+  {
+    "id": "book-war-end-world",
+    "title": "The War of the End of the World",
+    "titleCn": "世界末日之战",
+    "author": "Mario Vargas Llosa",
+    "authorCn": "略萨",
+    "nationality": "Peruvian",
+    "isbn": "9780312427993",
+    "description": "巴西一场宗教叛乱的史诗。",
+    "genre": [
+      "fiction",
+      "historical",
+      "epic"
+    ],
+    "tags": [
+      "peruvian",
+      "war",
+      "religion",
+      "epic",
+      "brazil"
+    ],
+    "publishYear": 1981,
+    "pages": 568,
+    "relatedBookIds": [
+      "book-feast-goat",
+      "book-bar-talk",
+      "book-war-peace"
+    ]
+  },
+  {
+    "id": "book-feast-goat",
+    "title": "The Feast of the Goat",
+    "titleCn": "公羊的盛宴",
+    "author": "Mario Vargas Llosa",
+    "authorCn": "略萨",
+    "nationality": "Peruvian",
+    "isbn": "9780312420277",
+    "description": "多米尼加独裁者特鲁吉略的最后日子。",
+    "genre": [
+      "fiction",
+      "historical",
+      "political"
+    ],
+    "tags": [
+      "peruvian",
+      "dictator",
+      "dominican",
+      "political",
+      "violence"
+    ],
+    "publishYear": 2000,
+    "pages": 404,
+    "relatedBookIds": [
+      "book-bar-talk",
+      "book-war-end-world",
+      "book-human-acts"
+    ]
+  },
+  {
+    "id": "book-perfume",
+    "title": "Perfume",
+    "titleCn": "香水",
+    "author": "Patrick Süskind",
+    "authorCn": "苏斯金德",
+    "nationality": "German",
+    "isbn": "9780375725845",
+    "description": "一个拥有超凡嗅觉的杀人狂。",
+    "genre": [
+      "fiction",
+      "historical",
+      "dark"
+    ],
+    "tags": [
+      "german",
+      "scent",
+      "murder",
+      "obsession",
+      "18th-century"
+    ],
+    "publishYear": 1985,
+    "pages": 263,
+    "relatedBookIds": [
+      "book-tin-drum",
+      "book-end-daylight",
+      "book-austerlitz"
+    ]
+  },
+  {
+    "id": "book-name-rose",
+    "title": "The Name of the Rose",
+    "titleCn": "玫瑰的名字",
+    "author": "Umberto Eco",
+    "authorCn": "埃科",
+    "nationality": "Italian",
+    "isbn": "9780156001311",
+    "description": "中世纪修道院里的谋杀案。",
+    "genre": [
+      "fiction",
+      "mystery",
+      "historical"
+    ],
+    "tags": [
+      "italian",
+      "medieval",
+      "mystery",
+      "philosophy",
+      "semiotics"
+    ],
+    "publishYear": 1980,
+    "pages": 536,
+    "relatedBookIds": [
+      "book-foucaults-pendulum",
+      "book-leopard",
+      "book-blindness-pamuk"
+    ]
+  },
+  {
+    "id": "book-foucaults-pendulum",
+    "title": "Foucault's Pendulum",
+    "titleCn": "福科摆",
+    "author": "Umberto Eco",
+    "authorCn": "埃科",
+    "nationality": "Italian",
+    "isbn": "9780156032971",
+    "description": "三个编辑编造了一个阴谋论，结果变成了现实。",
+    "genre": [
+      "fiction",
+      "mystery",
+      "philosophical"
+    ],
+    "tags": [
+      "italian",
+      "conspiracy",
+      "occult",
+      "postmodern",
+      "complex"
+    ],
+    "publishYear": 1988,
+    "pages": 641,
+    "relatedBookIds": [
+      "book-name-rose",
+      "book-invisible-cities",
+      "book-if-on-a-winters-night"
+    ]
+  },
+  {
+    "id": "book-book-laughter-forgetting",
+    "title": "The Book of Laughter and Forgetting",
+    "titleCn": "笑忘录",
+    "author": "Milan Kundera",
+    "authorCn": "昆德拉",
+    "nationality": "Czech-French",
+    "isbn": "9780060932145",
+    "description": "七个关于记忆和遗忘的故事。",
+    "genre": [
+      "fiction",
+      "philosophical",
+      "political"
+    ],
+    "tags": [
+      "czech",
+      "memory",
+      "totalitarianism",
+      "fragmented",
+      "philosophical"
+    ],
+    "publishYear": 1979,
+    "pages": 313,
+    "relatedBookIds": [
+      "book-joke",
+      "book-unbearable",
+      "book-1984"
+    ]
+  },
+  {
+    "id": "book-joke",
+    "title": "The Joke",
+    "titleCn": "玩笑",
+    "author": "Milan Kundera",
+    "authorCn": "昆德拉",
+    "nationality": "Czech-French",
+    "isbn": "9780060997007",
+    "description": "一个玩笑毁了一个人的一生。",
+    "genre": [
+      "fiction",
+      "political",
+      "literary"
+    ],
+    "tags": [
+      "czech",
+      "communism",
+      "revenge",
+      "irony",
+      "political"
+    ],
+    "publishYear": 1967,
+    "pages": 317,
+    "relatedBookIds": [
+      "book-book-laughter-forgetting",
+      "book-unbearable",
+      "book-bar-talk"
+    ]
+  },
+  {
+    "id": "book-notes-underground",
+    "title": "Notes from Underground",
+    "titleCn": "地下室手记",
+    "author": "Fyodor Dostoevsky",
+    "authorCn": "陀思妥耶夫斯基",
+    "nationality": "Russian",
+    "isbn": "9780679734529",
+    "description": "一个地下室人的狂傲独白。现代存在主义的先声。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "philosophical"
+    ],
+    "tags": [
+      "russian",
+      "existential",
+      "underground",
+      "alienation",
+      "consciousness"
+    ],
+    "publishYear": 1864,
+    "pages": 136,
+    "relatedBookIds": [
+      "book-brothers-karamazov",
+      "book-crime-punishment",
+      "book-nausea"
+    ]
+  },
+  {
+    "id": "book-bar-talk",
+    "title": "Conversation in the Cathedral",
+    "titleCn": "酒吧长谈",
+    "author": "Mario Vargas Llosa",
+    "authorCn": "马里奥·巴尔加斯·略萨",
+    "nationality": "Peruvian",
+    "isbn": "9780060732806",
+    "description": "两个男人在酒吧里的长谈，揭开秘鲁社会的黑暗。",
+    "genre": [
+      "fiction",
+      "political",
+      "literary"
+    ],
+    "tags": [
+      "peruvian",
+      "political",
+      "corruption",
+      "dialogue",
+      "epic"
+    ],
+    "publishYear": 1969,
+    "pages": 601,
+    "relatedBookIds": [
+      "book-feast-goat",
+      "book-war-end-world",
+      "book-joke"
+    ]
+  },
+  {
+    "id": "book-plague",
+    "title": "The Plague",
+    "titleCn": "鼠疫",
+    "author": "Albert Camus",
+    "authorCn": "加缩",
+    "nationality": "French-Algerian",
+    "isbn": "9780679720218",
+    "description": "一座城市被鼠疫封锁，人们如何面对死亡和苦难。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "philosophical"
+    ],
+    "tags": [
+      "existentialism",
+      "french",
+      "plague",
+      "solidarity",
+      "absurd"
+    ],
+    "publishYear": 1947,
+    "pages": 308,
+    "relatedBookIds": [
+      "book-fall",
+      "book-stranger",
+      "book-nausea"
+    ]
+  },
+  {
+    "id": "book-light-august",
+    "title": "Light in August",
+    "titleCn": "八月之光",
+    "author": "William Faulkner",
+    "authorCn": "福克纳",
+    "nationality": "American",
+    "isbn": "9780679732266",
+    "description": "美国南方小镇上的种族、身份与孤独。",
+    "genre": [
+      "fiction",
+      "southern",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "southern",
+      "race",
+      "identity",
+      "modernism"
+    ],
+    "publishYear": 1932,
+    "pages": 507,
+    "relatedBookIds": [
+      "book-absalom-absalom",
+      "book-sound-fury",
+      "book-as-i-lay-dying"
+    ]
+  },
+  {
+    "id": "book-end-daylight",
+    "title": "The End of Days",
+    "titleCn": "白日尽头",
+    "author": "Jenny Erpenbeck",
+    "authorCn": "珍妮·厄本贝克",
+    "nationality": "German",
+    "isbn": "9780811221924",
+    "description": "一个女人的五种可能的一生。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "german",
+      "fate",
+      "death",
+      "history",
+      "women"
+    ],
+    "publishYear": 2012,
+    "pages": 224,
+    "relatedBookIds": [
+      "book-austerlitz",
+      "book-reader",
+      "book-death-venice"
+    ]
+  },
+  {
+    "id": "book-kafka-shore",
+    "title": "Kafka on the Shore",
+    "titleCn": "海边的卡夫卡",
+    "author": "Haruki Murakami",
+    "authorCn": "村上春树",
+    "nationality": "Japanese",
+    "isbn": "9781400079278",
+    "description": "一个男孩离家出走，进入了一个超现实的世界。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "surreal",
+      "coming-of-age",
+      "metaphysical",
+      "cats"
+    ],
+    "publishYear": 2002,
+    "pages": 467,
+    "relatedBookIds": [
+      "book-wind-up-bird",
+      "book-1q84",
+      "book-norwegian-wood"
+    ]
+  },
+  {
+    "id": "book-wind-up-bird",
+    "title": "The Wind-Up Bird Chronicle",
+    "titleCn": "奇鸟行状录",
+    "author": "Haruki Murakami",
+    "authorCn": "村上春树",
+    "nationality": "Japanese",
+    "isbn": "9780679775430",
+    "description": "一个男人寻找失踪的猫，却卷入了秘密的漩涡。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "surreal",
+      "war",
+      "loss",
+      "metaphysical"
+    ],
+    "publishYear": 1994,
+    "pages": 607,
+    "relatedBookIds": [
+      "book-kafka-shore",
+      "book-1q84",
+      "book-norwegian-wood"
+    ]
+  },
+  {
+    "id": "book-1q84",
+    "title": "1Q84",
+    "titleCn": "1Q84",
+    "author": "Haruki Murakami",
+    "authorCn": "村上春树",
+    "nationality": "Japanese",
+    "isbn": "9780307593313",
+    "description": "两个人在平行世界中寻找彼此。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "parallel-worlds",
+      "love",
+      "cult",
+      "epic"
+    ],
+    "publishYear": 2009,
+    "pages": 925,
+    "relatedBookIds": [
+      "book-kafka-shore",
+      "book-wind-up-bird",
+      "book-norwegian-wood"
+    ]
+  },
+  {
+    "id": "book-snow-country",
+    "title": "Snow Country",
+    "titleCn": "雪国",
+    "author": "Yasunari Kawabata",
+    "authorCn": "川端康成",
+    "nationality": "Japanese",
+    "isbn": "9780679761044",
+    "description": "一个男人和一个温泉艺伎的故事。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "japanese",
+      "beauty",
+      "melancholy",
+      "nature",
+      "love"
+    ],
+    "publishYear": 1948,
+    "pages": 175,
+    "relatedBookIds": [
+      "book-thousand-cranes",
+      "book-norwegian-wood",
+      "book-1q84"
+    ]
+  },
+  {
+    "id": "book-thousand-cranes",
+    "title": "Thousand Cranes",
+    "titleCn": "千只鹤",
+    "author": "Yasunari Kawabata",
+    "authorCn": "川端康成",
+    "nationality": "Japanese",
+    "isbn": "9780679762652",
+    "description": "茶道世界里的爱情与纠葛。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "japanese",
+      "tea-ceremony",
+      "beauty",
+      "tradition",
+      "desire"
+    ],
+    "publishYear": 1952,
+    "pages": 147,
+    "relatedBookIds": [
+      "book-snow-country",
+      "book-temple-golden",
+      "book-norwegian-wood"
+    ]
+  },
+  {
+    "id": "book-personal-matter",
+    "title": "A Personal Matter",
+    "titleCn": "个人的体验",
+    "author": "Kenzaburo Oe",
+    "authorCn": "大江健三郎",
+    "nationality": "Japanese",
+    "isbn": "9780802150615",
+    "description": "一个父亲面对残疾新生儿的心理危机。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "fatherhood",
+      "moral-crisis",
+      "existential",
+      "disability"
+    ],
+    "publishYear": 1964,
+    "pages": 165,
+    "relatedBookIds": [
+      "book-no-longer-human",
+      "book-kokoro",
+      "book-temple-golden"
+    ]
+  },
+  {
+    "id": "book-no-longer-human",
+    "title": "No Longer Human",
+    "titleCn": "人间失格",
+    "author": "Osamu Dazai",
+    "authorCn": "太宰治",
+    "nationality": "Japanese",
+    "isbn": "9780811204811",
+    "description": "一个男人与社会的疏离。太宰治的自传式小说。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "alienation",
+      "despair",
+      "autobiographical",
+      "self-destruction"
+    ],
+    "publishYear": 1948,
+    "pages": 177,
+    "relatedBookIds": [
+      "book-setting-sun",
+      "book-personal-matter",
+      "book-kokoro"
+    ]
+  },
+  {
+    "id": "book-setting-sun",
+    "title": "The Setting Sun",
+    "titleCn": "斜阳",
+    "author": "Osamu Dazai",
+    "authorCn": "太宰治",
+    "nationality": "Japanese",
+    "isbn": "9780811200325",
+    "description": "二战后日本贵族家庭的衰落。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "japanese",
+      "decline",
+      "aristocracy",
+      "postwar",
+      "tragedy"
+    ],
+    "publishYear": 1947,
+    "pages": 175,
+    "relatedBookIds": [
+      "book-no-longer-human",
+      "book-remains-day-ishiguro",
+      "book-leopard"
+    ]
+  },
+  {
+    "id": "book-kokoro",
+    "title": "Kokoro",
+    "titleCn": "心",
+    "author": "Natsume Soseki",
+    "authorCn": "夏目漱石",
+    "nationality": "Japanese",
+    "isbn": "9780143106036",
+    "description": "一个年轻人和一个神秘老人的友谊。",
+    "genre": [
+      "fiction",
+      "literary",
+      "psychological"
+    ],
+    "tags": [
+      "japanese",
+      "friendship",
+      "guilt",
+      "secret",
+      "modern"
+    ],
+    "publishYear": 1914,
+    "pages": 248,
+    "relatedBookIds": [
+      "book-personal-matter",
+      "book-no-longer-human",
+      "book-temple-golden"
+    ]
+  },
+  {
+    "id": "book-woman-dunes",
+    "title": "The Woman in the Dunes",
+    "titleCn": "沙之女",
+    "author": "Kobo Abe",
+    "authorCn": "安部公房",
+    "nationality": "Japanese",
+    "isbn": "9780679733782",
+    "description": "一个男人被困在沙丘底部的女人家中。",
+    "genre": [
+      "fiction",
+      "existentialism",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "existential",
+      "entrapment",
+      "absurd",
+      "kafka-esque"
+    ],
+    "publishYear": 1962,
+    "pages": 241,
+    "relatedBookIds": [
+      "book-personal-matter",
+      "book-kafka-shore",
+      "book-wind-up-bird"
+    ]
+  },
+  {
+    "id": "book-temple-golden",
+    "title": "The Temple of the Golden Pavilion",
+    "titleCn": "金阁寺",
+    "author": "Yukio Mishima",
+    "authorCn": "三岛由纪夫",
+    "nationality": "Japanese",
+    "isbn": "9780679752707",
+    "description": "一个僧人烧毁了京都的金阁寺。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "beauty",
+      "destruction",
+      "obsession",
+      "philosophical"
+    ],
+    "publishYear": 1956,
+    "pages": 262,
+    "relatedBookIds": [
+      "book-sailor-fell-grace",
+      "book-personal-matter",
+      "book-no-longer-human"
+    ]
+  },
+  {
+    "id": "book-sailor-fell-grace",
+    "title": "The Sailor Who Fell from Grace with the Sea",
+    "titleCn": "午后曳航",
+    "author": "Yukio Mishima",
+    "authorCn": "三岛由纪夫",
+    "nationality": "Japanese",
+    "isbn": "9780679750154",
+    "description": "一群少年对一个水手的审判。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "dark"
+    ],
+    "tags": [
+      "japanese",
+      "youth",
+      "violence",
+      "nihilism",
+      "sea"
+    ],
+    "publishYear": 1963,
+    "pages": 181,
+    "relatedBookIds": [
+      "book-temple-golden",
+      "book-personal-matter",
+      "book-no-longer-human"
+    ]
+  },
+  {
+    "id": "book-ring-saturn",
+    "title": "The Rings of Saturn",
+    "titleCn": "土星之环",
+    "author": "W.G. Sebald",
+    "authorCn": "泽巴尔德",
+    "nationality": "German",
+    "isbn": "9780811226158",
+    "description": "一次英格兰东海岸的徒步旅行，串起了历史和记忆的碎片。",
+    "genre": [
+      "fiction",
+      "literary",
+      "memoir"
+    ],
+    "tags": [
+      "german",
+      "memory",
+      "history",
+      "walking",
+      "melancholy"
+    ],
+    "publishYear": 1995,
+    "pages": 296,
+    "relatedBookIds": [
+      "book-austerlitz",
+      "book-end-daylight",
+      "book-all-quiet-western"
+    ]
+  },
+  {
+    "id": "book-austerlitz",
+    "title": "Austerlitz",
+    "titleCn": "奥斯特利茨",
+    "author": "W.G. Sebald",
+    "authorCn": "泽巴尔德",
+    "nationality": "German",
+    "isbn": "9780375504839",
+    "description": "一个男人追寻自己在二战中失去的童年记忆。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "german",
+      "memory",
+      "holocaust",
+      "identity",
+      "architecture"
+    ],
+    "publishYear": 2001,
+    "pages": 298,
+    "relatedBookIds": [
+      "book-ring-saturn",
+      "book-reader",
+      "book-end-daylight"
+    ]
+  },
+  {
+    "id": "book-berlin-alexanderplatz",
+    "title": "Berlin Alexanderplatz",
+    "titleCn": "柏林亚历山大广场",
+    "author": "Alfred Döblin",
+    "authorCn": "德布林",
+    "nationality": "German",
+    "isbn": "9780826477514",
+    "description": "魏玛共和国时期柏林底层的生活。",
+    "genre": [
+      "fiction",
+      "modernism",
+      "social"
+    ],
+    "tags": [
+      "german",
+      "berlin",
+      "modernism",
+      "urban",
+      "experimental"
+    ],
+    "publishYear": 1929,
+    "pages": 636,
+    "relatedBookIds": [
+      "book-steppenwolf",
+      "book-ulysses",
+      "book-sound-fury"
+    ]
+  },
+  {
+    "id": "book-reader",
+    "title": "The Reader",
+    "titleCn": "朗读者",
+    "author": "Bernhard Schlink",
+    "authorCn": "施林克",
+    "nationality": "German",
+    "isbn": "9780375707971",
+    "description": "一个男孩与一个纳粹战犯的恋情。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "german",
+      "holocaust",
+      "love",
+      "guilt",
+      "age-gap"
+    ],
+    "publishYear": 1995,
+    "pages": 218,
+    "relatedBookIds": [
+      "book-austerlitz",
+      "book-end-daylight",
+      "book-atonement"
+    ]
+  },
+  {
+    "id": "book-leopard",
+    "title": "The Leopard",
+    "titleCn": "豹",
+    "author": "Giuseppe Tomasi di Lampedusa",
+    "authorCn": "兰佩杜萨",
+    "nationality": "Italian",
+    "isbn": "9780375714795",
+    "description": "意大利统一时期西西里贵族的衰落。",
+    "genre": [
+      "fiction",
+      "historical",
+      "literary"
+    ],
+    "tags": [
+      "italian",
+      "aristocracy",
+      "decline",
+      "sicily",
+      "revolution"
+    ],
+    "publishYear": 1958,
+    "pages": 319,
+    "relatedBookIds": [
+      "book-setting-sun",
+      "book-general-labyrinth",
+      "book-name-rose"
+    ]
+  },
+  {
+    "id": "book-barons-trees",
+    "title": "The Baron in the Trees",
+    "titleCn": "树上的男爵",
+    "author": "Italo Calvino",
+    "authorCn": "卡尔维诺",
+    "nationality": "Italian",
+    "isbn": "9780156106801",
+    "description": "一个男爵决定住在树上，再也不下来。",
+    "genre": [
+      "fiction",
+      "fantasy",
+      "literary"
+    ],
+    "tags": [
+      "italian",
+      "nature",
+      "freedom",
+      "fable",
+      "whimsical"
+    ],
+    "publishYear": 1957,
+    "pages": 217,
+    "relatedBookIds": [
+      "book-invisible-cities",
+      "book-if-on-a-winters-night",
+      "book-leopard"
+    ]
+  },
+  {
+    "id": "book-conformist",
+    "title": "The Conformist",
+    "titleCn": "同流者",
+    "author": "Alberto Moravia",
+    "authorCn": "莫拉维亚",
+    "nationality": "Italian",
+    "isbn": "9781586892821",
+    "description": "一个男人为了融入社会而投靠法西斯。",
+    "genre": [
+      "fiction",
+      "political",
+      "psychological"
+    ],
+    "tags": [
+      "italian",
+      "fascism",
+      "conformity",
+      "identity",
+      "political"
+    ],
+    "publishYear": 1951,
+    "pages": 351,
+    "relatedBookIds": [
+      "book-steppenwolf",
+      "book-invisible-cities",
+      "book-if-on-a-winters-night"
+    ]
+  },
+  {
+    "id": "book-my-brilliant-friend",
+    "title": "My Brilliant Friend",
+    "titleCn": "我的天才女友",
+    "author": "Elena Ferrante",
+    "authorCn": "费兰特",
+    "nationality": "Italian",
+    "isbn": "9781609450786",
+    "description": "那不勒斯两个女孩一生的友谊与竞争。",
+    "genre": [
+      "fiction",
+      "literary",
+      "coming-of-age"
+    ],
+    "tags": [
+      "italian",
+      "friendship",
+      "women",
+      "naples",
+      "class"
+    ],
+    "publishYear": 2011,
+    "pages": 331,
+    "relatedBookIds": [
+      "book-leopard",
+      "book-barons-trees",
+      "book-sula"
+    ]
+  },
+  {
+    "id": "book-doctor-zhivago",
+    "title": "Doctor Zhivago",
+    "titleCn": "日瓦戈医生",
+    "author": "Boris Pasternak",
+    "authorCn": "帕斯捷尔纳克",
+    "nationality": "Russian",
+    "isbn": "9780307390950",
+    "description": "俄国革命中一个医生和诗人的命运。",
+    "genre": [
+      "fiction",
+      "historical",
+      "romance"
+    ],
+    "tags": [
+      "russian",
+      "revolution",
+      "love",
+      "poetry",
+      "epic"
+    ],
+    "publishYear": 1957,
+    "pages": 510,
+    "relatedBookIds": [
+      "book-anna-karenina",
+      "book-eugene-onegin",
+      "book-war-peace"
+    ]
+  },
+  {
+    "id": "book-dead-souls",
+    "title": "Dead Souls",
+    "titleCn": "死魂灵",
+    "author": "Nikolai Gogol",
+    "authorCn": "果戈里",
+    "nationality": "Russian",
+    "isbn": "9780140448078",
+    "description": "一个骗子买卖死去的农奴。",
+    "genre": [
+      "fiction",
+      "satire",
+      "literary"
+    ],
+    "tags": [
+      "russian",
+      "satire",
+      "serfdom",
+      "picaresque",
+      "society"
+    ],
+    "publishYear": 1842,
+    "pages": 432,
+    "relatedBookIds": [
+      "book-master-margarita",
+      "book-anna-karenina",
+      "book-brothers-karamazov"
+    ]
+  },
+  {
+    "id": "book-eugene-onegin",
+    "title": "Eugene Onegin",
+    "titleCn": "叶甫盖尼·奥涅金",
+    "author": "Alexander Pushkin",
+    "authorCn": "普希金",
+    "nationality": "Russian",
+    "isbn": "9780140448108",
+    "description": "一个多余人的爱情与悲剧。",
+    "genre": [
+      "fiction",
+      "literary",
+      "romance"
+    ],
+    "tags": [
+      "russian",
+      "poetry",
+      "love",
+      "dandy",
+      "regret"
+    ],
+    "publishYear": 1833,
+    "pages": 240,
+    "relatedBookIds": [
+      "book-anna-karenina",
+      "book-doctor-zhivago",
+      "book-spring-torrents"
+    ]
+  },
+  {
+    "id": "book-one-day-ivan",
+    "title": "One Day in the Life of Ivan Denisovich",
+    "titleCn": "伊万·杰尼索维奇的一天",
+    "author": "Aleksandr Solzhenitsyn",
+    "authorCn": "索尔仁尼琴",
+    "nationality": "Russian",
+    "isbn": "9780374529529",
+    "description": "古拉格劳改营的一天。",
+    "genre": [
+      "fiction",
+      "political",
+      "literary"
+    ],
+    "tags": [
+      "russian",
+      "gulag",
+      "prison",
+      "survival",
+      "political"
+    ],
+    "publishYear": 1962,
+    "pages": 182,
+    "relatedBookIds": [
+      "book-brothers-karamazov",
+      "book-anna-karenina",
+      "book-joke"
+    ]
+  },
+  {
+    "id": "book-we",
+    "title": "We",
+    "titleCn": "我们",
+    "author": "Yevgeny Zamyatin",
+    "authorCn": "扎米亚京",
+    "nationality": "Russian",
+    "isbn": "9780140185850",
+    "description": "所有反乌托邦小说的鼻祖。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "science-fiction"
+    ],
+    "tags": [
+      "russian",
+      "dystopia",
+      "totalitarianism",
+      "surveillance",
+      "glass"
+    ],
+    "publishYear": 1924,
+    "pages": 225,
+    "relatedBookIds": [
+      "book-1984",
+      "book-brave-new-world",
+      "book-fahrenheit-451"
+    ]
+  },
+  {
+    "id": "book-spring-torrents",
+    "title": "First Love and Other Stories",
+    "titleCn": "初恋",
+    "author": "Ivan Turgenev",
+    "authorCn": "屠格涅夫",
+    "nationality": "Russian",
+    "isbn": "9780140443554",
+    "description": "屠格涅夫的经典爱情短篇。",
+    "genre": [
+      "fiction",
+      "romance",
+      "short-stories"
+    ],
+    "tags": [
+      "russian",
+      "love",
+      "youth",
+      "short-stories",
+      "nostalgia"
+    ],
+    "publishYear": 1860,
+    "pages": 208,
+    "relatedBookIds": [
+      "book-anna-karenina",
+      "book-doctor-zhivago",
+      "book-eugene-onegin"
+    ]
+  },
+  {
+    "id": "book-oblivion",
+    "title": "Oblivion",
+    "titleCn": "遗忘",
+    "author": "David Foster Wallace",
+    "authorCn": "大卫·福斯特·华莱士",
+    "nationality": "American",
+    "isbn": "9780316010764",
+    "description": "关于意识和存在的短篇小说集。",
+    "genre": [
+      "fiction",
+      "short-stories",
+      "postmodern"
+    ],
+    "tags": [
+      "american",
+      "postmodern",
+      "consciousness",
+      "short-stories",
+      "experimental"
+    ],
+    "publishYear": 2004,
+    "pages": 329,
+    "relatedBookIds": [
+      "book-infinite-jest",
+      "book-gravity-rainbow",
+      "book-winesburg-ohio"
+    ]
+  },
+  {
+    "id": "book-rabbit-run",
+    "title": "Rabbit, Run",
+    "titleCn": "兔子，跑吧",
+    "author": "John Updike",
+    "authorCn": "厄普代克",
+    "nationality": "American",
+    "isbn": "9780449911655",
+    "description": "一个前高中篮球明星的中产生活危机。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "american",
+      "suburban",
+      "middle-class",
+      "running",
+      "marriage"
+    ],
+    "publishYear": 1960,
+    "pages": 307,
+    "relatedBookIds": [
+      "book-invisible-man",
+      "book-house-mirth",
+      "book-to-kill-mockingbird"
+    ]
+  },
+  {
+    "id": "book-portnoys-complaint",
+    "title": "Portnoy's Complaint",
+    "titleCn": "波特诺伊的怨诉",
+    "author": "Philip Roth",
+    "authorCn": "菲利普·罗斯",
+    "nationality": "American",
+    "isbn": "9780679756453",
+    "description": "一个犹太男人向心理医生倾诉。",
+    "genre": [
+      "fiction",
+      "literary",
+      "comedy"
+    ],
+    "tags": [
+      "american",
+      "jewish",
+      "sexuality",
+      "humor",
+      "confessional"
+    ],
+    "publishYear": 1969,
+    "pages": 274,
+    "relatedBookIds": [
+      "book-american-pastoral",
+      "book-amazing-adventures",
+      "book-lolita"
+    ]
+  },
+  {
+    "id": "book-american-pastoral",
+    "title": "American Pastoral",
+    "titleCn": "美国牧歌",
+    "author": "Philip Roth",
+    "authorCn": "菲利普·罗斯",
+    "nationality": "American",
+    "isbn": "9780375701429",
+    "description": "美国梦的破碎。",
+    "genre": [
+      "fiction",
+      "literary",
+      "social"
+    ],
+    "tags": [
+      "american",
+      "american-dream",
+      "sixties",
+      "family",
+      "tragedy"
+    ],
+    "publishYear": 1997,
+    "pages": 423,
+    "relatedBookIds": [
+      "book-portnoys-complaint",
+      "book-house-mirth",
+      "book-great-gatsby"
+    ]
+  },
+  {
+    "id": "book-beloved-toni",
+    "title": "Song of Solomon",
+    "titleCn": "所罗门之歌",
+    "author": "Toni Morrison",
+    "authorCn": "莫里森",
+    "nationality": "American",
+    "isbn": "9781400033423",
+    "description": "一个黑人男子追寻家族历史的旅程。",
+    "genre": [
+      "fiction",
+      "literary",
+      "magical-realism"
+    ],
+    "tags": [
+      "african-american",
+      "family",
+      "flight",
+      "identity",
+      "mythology"
+    ],
+    "publishYear": 1977,
+    "pages": 337,
+    "relatedBookIds": [
+      "book-sula",
+      "book-beloved",
+      "book-go-tell-mountain"
+    ]
+  },
+  {
+    "id": "book-sula",
+    "title": "Sula",
+    "titleCn": "秀拉",
+    "author": "Toni Morrison",
+    "authorCn": "莫里森",
+    "nationality": "American",
+    "isbn": "9781400033430",
+    "description": "两个黑人女性的友谊与背叛。",
+    "genre": [
+      "fiction",
+      "literary",
+      "feminism"
+    ],
+    "tags": [
+      "african-american",
+      "friendship",
+      "women",
+      "community",
+      "identity"
+    ],
+    "publishYear": 1973,
+    "pages": 174,
+    "relatedBookIds": [
+      "book-beloved-toni",
+      "book-beloved",
+      "book-color-purple"
+    ]
+  },
+  {
+    "id": "book-mrs-dalloway-cunningham",
+    "title": "The Hours",
+    "titleCn": "时时刻刻",
+    "author": "Michael Cunningham",
+    "authorCn": "坎宁安",
+    "nationality": "American",
+    "isbn": "9780312243029",
+    "description": "三个女人与《达洛维夫人》的交织命运。",
+    "genre": [
+      "fiction",
+      "literary",
+      "lgbtq"
+    ],
+    "tags": [
+      "american",
+      "women",
+      "woolf",
+      "time",
+      "interconnected"
+    ],
+    "publishYear": 1998,
+    "pages": 226,
+    "relatedBookIds": [
+      "book-house-mirth",
+      "book-north-woods",
+      "book-lolita"
+    ]
+  },
+  {
+    "id": "book-middlesex",
+    "title": "Middlesex",
+    "titleCn": "中性",
+    "author": "Jeffrey Eugenides",
+    "authorCn": "尤金尼德斯",
+    "nationality": "American",
+    "isbn": "9780312427733",
+    "description": "一个双性人的家族三代史。",
+    "genre": [
+      "fiction",
+      "literary",
+      "family"
+    ],
+    "tags": [
+      "american",
+      "intersex",
+      "greek-american",
+      "identity",
+      "family"
+    ],
+    "publishYear": 2002,
+    "pages": 529,
+    "relatedBookIds": [
+      "book-virgin-suicides",
+      "book-corrections",
+      "book-housekeeping"
+    ]
+  },
+  {
+    "id": "book-virgin-suicides",
+    "title": "The Virgin Suicides",
+    "titleCn": "处女自杀",
+    "author": "Jeffrey Eugenides",
+    "authorCn": "尤金尼德斯",
+    "nationality": "American",
+    "isbn": "9780312428815",
+    "description": "五个姐妹的神秘自杀。",
+    "genre": [
+      "fiction",
+      "literary",
+      "dark"
+    ],
+    "tags": [
+      "american",
+      "suburban",
+      "mystery",
+      "youth",
+      "collective-narrator"
+    ],
+    "publishYear": 1993,
+    "pages": 249,
+    "relatedBookIds": [
+      "book-middlesex",
+      "book-catcher-rye",
+      "book-rabbit-run"
+    ]
+  },
+  {
+    "id": "book-angle-repose",
+    "title": "Angle of Repose",
+    "titleCn": "安息角",
+    "author": "Wallace Stegner",
+    "authorCn": "斯泰格纳",
+    "nationality": "American",
+    "isbn": "9780141185477",
+    "description": "一个历史学家通过祖母的信件重建美国西部故事。",
+    "genre": [
+      "fiction",
+      "historical",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "western",
+      "history",
+      "marriage",
+      "memory"
+    ],
+    "publishYear": 1971,
+    "pages": 569,
+    "relatedBookIds": [
+      "book-north-woods",
+      "book-scarlet-letter",
+      "book-amazing-adventures"
+    ]
+  },
+  {
+    "id": "book-bless-me-ultima",
+    "title": "Bless Me, Ultima",
+    "titleCn": "保佑我，乌尔蒂玛",
+    "author": "Rudolfo Anaya",
+    "authorCn": "阿纳亚",
+    "nationality": "American",
+    "isbn": "9780446675369",
+    "description": "新墨西哥州一个男孩与女巫的成长故事。",
+    "genre": [
+      "fiction",
+      "coming-of-age",
+      "magical-realism"
+    ],
+    "tags": [
+      "mexican-american",
+      "magic",
+      "childhood",
+      "spirituality",
+      "southwest"
+    ],
+    "publishYear": 1972,
+    "pages": 262,
+    "relatedBookIds": [
+      "book-hundred-years",
+      "book-norwegian-wood",
+      "book-catcher-rye"
+    ]
+  },
+  {
+    "id": "book-bell-jar",
+    "title": "The Bell Jar",
+    "titleCn": "钟形罩",
+    "author": "Sylvia Plath",
+    "authorCn": "普拉斯",
+    "nationality": "American",
+    "isbn": "9780060837020",
+    "description": "一个年轻女性的精神崩溃。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "coming-of-age"
+    ],
+    "tags": [
+      "american",
+      "mental-illness",
+      "women",
+      "autobiographical",
+      "feminism"
+    ],
+    "publishYear": 1963,
+    "pages": 244,
+    "relatedBookIds": [
+      "book-lolita",
+      "book-catcher-rye",
+      "book-streetcar-desire"
+    ]
+  },
+  {
+    "id": "book-handmaid-testaments",
+    "title": "The Testaments",
+    "titleCn": "证言",
+    "author": "Margaret Atwood",
+    "authorCn": "阿特伍德",
+    "nationality": "Canadian",
+    "isbn": "9780385543781",
+    "description": "《使女的故事》续篇。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "feminism"
+    ],
+    "tags": [
+      "dystopia",
+      "feminism",
+      "sequel",
+      "canadian",
+      "resistance"
+    ],
+    "publishYear": 2019,
+    "pages": 422,
+    "relatedBookIds": [
+      "book-handmaids-tale",
+      "book-blindness",
+      "book-1984"
+    ]
+  },
+  {
+    "id": "book-blindness-pamuk",
+    "title": "My Name Is Red",
+    "titleCn": "我的名字叫红",
+    "author": "Orhan Pamuk",
+    "authorCn": "帕慕克",
+    "nationality": "Turkish",
+    "isbn": "9780375706851",
+    "description": "奥斯曼帝国的细密画师和一桩谋杀案。",
+    "genre": [
+      "fiction",
+      "historical",
+      "mystery"
+    ],
+    "tags": [
+      "turkish",
+      "art",
+      "murder",
+      "ottoman",
+      "identity"
+    ],
+    "publishYear": 1998,
+    "pages": 417,
+    "relatedBookIds": [
+      "book-snow-pamuk",
+      "book-name-rose",
+      "book-perfume"
+    ]
+  },
+  {
+    "id": "book-snow-pamuk",
+    "title": "Snow",
+    "titleCn": "雪",
+    "author": "Orhan Pamuk",
+    "authorCn": "帕慕克",
+    "nationality": "Turkish",
+    "isbn": "9780375706868",
+    "description": "一个诗人在土耳其东部小城的政治风暴。",
+    "genre": [
+      "fiction",
+      "political",
+      "literary"
+    ],
+    "tags": [
+      "turkish",
+      "islam",
+      "politics",
+      "poetry",
+      "east-west"
+    ],
+    "publishYear": 2002,
+    "pages": 463,
+    "relatedBookIds": [
+      "book-blindness-pamuk",
+      "book-death-artemio-cruz",
+      "book-joke"
+    ]
+  },
+  {
+    "id": "book-memory-police",
+    "title": "The Memory Police",
+    "titleCn": "秘密结晶",
+    "author": "Yoko Ogawa",
+    "authorCn": "小川洋子",
+    "nationality": "Japanese",
+    "isbn": "9781101870600",
+    "description": "一个岛上的事物不断消失，记忆也随之消失。",
+    "genre": [
+      "fiction",
+      "dystopia",
+      "literary"
+    ],
+    "tags": [
+      "japanese",
+      "memory",
+      "disappearance",
+      "dystopia",
+      "quiet"
+    ],
+    "publishYear": 1994,
+    "pages": 274,
+    "relatedBookIds": [
+      "book-never-let-me-go",
+      "book-remains-day-ishiguro",
+      "book-kafka-shore"
+    ]
+  },
+  {
+    "id": "book-vegetarian",
+    "title": "The Vegetarian",
+    "titleCn": "素食者",
+    "author": "Han Kang",
+    "authorCn": "韩江",
+    "nationality": "South Korean",
+    "isbn": "9781101906118",
+    "description": "一个女人决定不再吃肉，由此引发的一系列后果。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "literary"
+    ],
+    "tags": [
+      "korean",
+      "body",
+      "rebellion",
+      "transformation",
+      "violence"
+    ],
+    "publishYear": 2007,
+    "pages": 183,
+    "relatedBookIds": [
+      "book-human-acts",
+      "book-lolita",
+      "book-personal-matter"
+    ]
+  },
+  {
+    "id": "book-human-acts",
+    "title": "Human Acts",
+    "titleCn": "少年来了",
+    "author": "Han Kang",
+    "authorCn": "韩江",
+    "nationality": "South Korean",
+    "isbn": "9781101906729",
+    "description": "光州事件的文学见证。",
+    "genre": [
+      "fiction",
+      "historical",
+      "political"
+    ],
+    "tags": [
+      "korean",
+      "massacre",
+      "political",
+      "memory",
+      "violence"
+    ],
+    "publishYear": 2014,
+    "pages": 213,
+    "relatedBookIds": [
+      "book-vegetarian",
+      "book-feast-goat",
+      "book-brief-history-seven"
+    ]
+  },
+  {
+    "id": "book-remains-day-ishiguro",
+    "title": "An Artist of the Floating World",
+    "titleCn": "浮世画家",
+    "author": "Kazuo Ishiguro",
+    "authorCn": "石黑一雄",
+    "nationality": "British-Japanese",
+    "isbn": "9780679722663",
+    "description": "一个日本画家在二战后反思自己的过去。",
+    "genre": [
+      "fiction",
+      "literary",
+      "historical"
+    ],
+    "tags": [
+      "japanese",
+      "war",
+      "regret",
+      "memory",
+      "art"
+    ],
+    "publishYear": 1986,
+    "pages": 206,
+    "relatedBookIds": [
+      "book-remains-of-day",
+      "book-never-let-me-go",
+      "book-buried-giant"
+    ]
+  },
+  {
+    "id": "book-buried-giant",
+    "title": "The Buried Giant",
+    "titleCn": "被掩埋的巨人",
+    "author": "Kazuo Ishiguro",
+    "authorCn": "石黑一雄",
+    "nationality": "British-Japanese",
+    "isbn": "9780307455796",
+    "description": "亚瑟王时代一对老夫妇的旅程。",
+    "genre": [
+      "fiction",
+      "fantasy",
+      "literary"
+    ],
+    "tags": [
+      "british",
+      "memory",
+      "myth",
+      "allegory",
+      "aging"
+    ],
+    "publishYear": 2015,
+    "pages": 317,
+    "relatedBookIds": [
+      "book-never-let-me-go",
+      "book-remains-of-day",
+      "book-remains-day-ishiguro"
+    ]
+  },
+  {
+    "id": "book-north-woods",
+    "title": "North Woods",
+    "titleCn": "北方森林",
+    "author": "Daniel Mason",
+    "authorCn": "丹尼尔·梅森",
+    "nationality": "American",
+    "isbn": "9780593597033",
+    "description": "一栋房子三百年的历史。",
+    "genre": [
+      "fiction",
+      "historical",
+      "literary"
+    ],
+    "tags": [
+      "american",
+      "nature",
+      "history",
+      "house",
+      "interconnected"
+    ],
+    "publishYear": 2023,
+    "pages": 371,
+    "relatedBookIds": [
+      "book-angle-repose",
+      "book-scarlet-letter",
+      "book-amazing-adventures"
+    ]
+  },
+  {
+    "id": "book-brief-history-seven",
+    "title": "A Brief History of Seven Killings",
+    "titleCn": "七杀简史",
+    "author": "Marlon James",
+    "authorCn": "马龙·詹姆斯",
+    "nationality": "Jamaican",
+    "isbn": "9781594633942",
+    "description": "以牙买加政治暗杀为中心的众声喧哗。",
+    "genre": [
+      "fiction",
+      "historical",
+      "political"
+    ],
+    "tags": [
+      "jamaican",
+      "politics",
+      "violence",
+      "polyphonic",
+      "caribbean"
+    ],
+    "publishYear": 2014,
+    "pages": 686,
+    "relatedBookIds": [
+      "book-feast-goat",
+      "book-human-acts",
+      "book-snow-pamuk"
+    ]
+  },
+  {
+    "id": "book-satanic-verses",
+    "title": "The Satanic Verses",
+    "titleCn": "撒旦诗篇",
+    "author": "Salman Rushdie",
+    "authorCn": "拉什迪",
+    "nationality": "British-Indian",
+    "isbn": "9780812976717",
+    "description": "两个印度演员从飞机上坠落后的奇幻经历。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "political"
+    ],
+    "tags": [
+      "indian",
+      "magical-realism",
+      "religion",
+      "immigration",
+      "controversial"
+    ],
+    "publishYear": 1988,
+    "pages": 546,
+    "relatedBookIds": [
+      "book-midnight-children",
+      "book-autumn-patriarch",
+      "book-hundred-years"
+    ]
+  },
+  {
+    "id": "book-disgrace",
+    "title": "Disgrace",
+    "titleCn": "耻",
+    "author": "J.M. Coetzee",
+    "authorCn": "库切",
+    "nationality": "South African",
+    "isbn": "9780140296402",
+    "description": "一个南非教授的耻辱与救赎。",
+    "genre": [
+      "fiction",
+      "literary",
+      "postcolonial"
+    ],
+    "tags": [
+      "south-african",
+      "post-apartheid",
+      "shame",
+      "violence",
+      "redemption"
+    ],
+    "publishYear": 1999,
+    "pages": 220,
+    "relatedBookIds": [
+      "book-waiting-barbarians",
+      "book-beloved-country",
+      "book-things-fall-apart"
+    ]
+  },
+  {
+    "id": "book-waiting-barbarians",
+    "title": "Waiting for the Barbarians",
+    "titleCn": "等待野蛮人",
+    "author": "J.M. Coetzee",
+    "authorCn": "库切",
+    "nationality": "South African",
+    "isbn": "9780140061109",
+    "description": "帝国边疆一个地方官员的道德觉醒。",
+    "genre": [
+      "fiction",
+      "political",
+      "allegory"
+    ],
+    "tags": [
+      "south-african",
+      "colonialism",
+      "torture",
+      "conscience",
+      "allegory"
+    ],
+    "publishYear": 1980,
+    "pages": 156,
+    "relatedBookIds": [
+      "book-disgrace",
+      "book-blindness",
+      "book-lord-flies"
+    ]
+  },
+  {
+    "id": "book-half-yellow-sun",
+    "title": "Half of a Yellow Sun",
+    "titleCn": "半轮黄日",
+    "author": "Chimamanda Ngozi Adichie",
+    "authorCn": "阿迪契",
+    "nationality": "Nigerian",
+    "isbn": "9781400095209",
+    "description": "尼日利亚内战中三个人的命运。",
+    "genre": [
+      "fiction",
+      "historical",
+      "postcolonial"
+    ],
+    "tags": [
+      "nigerian",
+      "war",
+      "love",
+      "biafra",
+      "identity"
+    ],
+    "publishYear": 2006,
+    "pages": 433,
+    "relatedBookIds": [
+      "book-americanah",
+      "book-famished-road",
+      "book-atonement"
+    ]
+  },
+  {
+    "id": "book-americanah",
+    "title": "Americanah",
+    "titleCn": "美国佬",
+    "author": "Chimamanda Ngozi Adichie",
+    "authorCn": "阿迪契",
+    "nationality": "Nigerian",
+    "isbn": "9780307455925",
+    "description": "一对尼日利亚恋人在美国和英国的分离与重逢。",
+    "genre": [
+      "fiction",
+      "literary",
+      "immigration"
+    ],
+    "tags": [
+      "nigerian",
+      "race",
+      "immigration",
+      "love",
+      "identity"
+    ],
+    "publishYear": 2013,
+    "pages": 477,
+    "relatedBookIds": [
+      "book-half-yellow-sun",
+      "book-namesake",
+      "book-their-eyes-watching"
+    ]
+  },
+  {
+    "id": "book-famished-road",
+    "title": "The Famished Road",
+    "titleCn": "饥饿的路",
+    "author": "Ben Okri",
+    "authorCn": "本·奥克利",
+    "nationality": "Nigerian",
+    "isbn": "9780385425131",
+    "description": "一个灵魂之子在尼日利亚的生死之间游荡。",
+    "genre": [
+      "fiction",
+      "magical-realism",
+      "postcolonial"
+    ],
+    "tags": [
+      "nigerian",
+      "spirit-child",
+      "magical-realism",
+      "poverty",
+      "mythology"
+    ],
+    "publishYear": 1991,
+    "pages": 500,
+    "relatedBookIds": [
+      "book-midnight-children",
+      "book-half-yellow-sun",
+      "book-hundred-years"
+    ]
+  },
+  {
+    "id": "book-season-migration",
+    "title": "Season of Migration to the North",
+    "titleCn": "北迁季节",
+    "author": "Tayeb Salih",
+    "authorCn": "萨利赫",
+    "nationality": "Sudanese",
+    "isbn": "9781590173022",
+    "description": "一个苏丹人在伦敦的经历与殖民创伤。",
+    "genre": [
+      "fiction",
+      "postcolonial",
+      "literary"
+    ],
+    "tags": [
+      "sudanese",
+      "colonialism",
+      "identity",
+      "migration",
+      "arabic"
+    ],
+    "publishYear": 1966,
+    "pages": 169,
+    "relatedBookIds": [
+      "book-things-fall-apart",
+      "book-god-small-things",
+      "book-disgrace"
+    ]
+  },
+  {
+    "id": "book-house-hunger",
+    "title": "The House of Hunger",
+    "titleCn": "饥饿之屋",
+    "author": "Dambudzo Marechera",
+    "authorCn": "马雷切拉",
+    "nationality": "Zimbabwean",
+    "isbn": "9780435906818",
+    "description": "津巴布韦殖民时期的愤怒青年。",
+    "genre": [
+      "fiction",
+      "postcolonial",
+      "literary"
+    ],
+    "tags": [
+      "zimbabwean",
+      "colonial",
+      "anger",
+      "youth",
+      "experimental"
+    ],
+    "publishYear": 1978,
+    "pages": 154,
+    "relatedBookIds": [
+      "book-unbearable-bassington",
+      "book-things-fall-apart",
+      "book-god-small-things"
+    ]
+  },
+  {
+    "id": "book-unbearable-bassington",
+    "title": "Nervous Conditions",
+    "titleCn": "紧张的状态",
+    "author": "Tsitsi Dangarembga",
+    "authorCn": "丹加伦巴",
+    "nationality": "Zimbabwean",
+    "isbn": "9781954276031",
+    "description": "殖民地罗得西亚一个女孩的成长。",
+    "genre": [
+      "fiction",
+      "postcolonial",
+      "coming-of-age"
+    ],
+    "tags": [
+      "zimbabwean",
+      "feminism",
+      "education",
+      "colonial",
+      "identity"
+    ],
+    "publishYear": 1988,
+    "pages": 204,
+    "relatedBookIds": [
+      "book-house-hunger",
+      "book-midnight-children",
+      "book-go-tell-mountain"
+    ]
+  },
+  {
+    "id": "book-solaris",
+    "title": "Solaris",
+    "titleCn": "索拉里斯",
+    "author": "Stanisław Lem",
+    "authorCn": "莱姆",
+    "nationality": "Polish",
+    "isbn": "9780156027601",
+    "description": "人类与一颗有意识的星球的接触。",
+    "genre": [
+      "fiction",
+      "science-fiction",
+      "philosophical"
+    ],
+    "tags": [
+      "polish",
+      "science-fiction",
+      "consciousness",
+      "alien",
+      "philosophical"
+    ],
+    "publishYear": 1961,
+    "pages": 204,
+    "relatedBookIds": [
+      "book-nausea",
+      "book-ficciones",
+      "book-book-laughter-forgetting"
+    ]
+  },
+  {
+    "id": "book-manuscript-saragossa",
+    "title": "The Manuscript Found in Saragossa",
+    "titleCn": "萨拉戈萨手稿",
+    "author": "Jan Potocki",
+    "authorCn": "波托茨基",
+    "nationality": "Polish",
+    "isbn": "9780140449211",
+    "description": "六十六天的故事嵌套故事。",
+    "genre": [
+      "fiction",
+      "adventure",
+      "gothic"
+    ],
+    "tags": [
+      "polish",
+      "frame-narrative",
+      "gothic",
+      "adventure",
+      "supernatural"
+    ],
+    "publishYear": 1815,
+    "pages": 632,
+    "relatedBookIds": [
+      "book-don-quixote",
+      "book-wuthering-heights",
+      "book-jane-eyre"
+    ]
+  },
+  {
+    "id": "book-hunger",
+    "title": "Hunger",
+    "titleCn": "饥饿",
+    "author": "Knut Hamsun",
+    "authorCn": "哈姆生",
+    "nationality": "Norwegian",
+    "isbn": "9780374531539",
+    "description": "一个穷困潦倒的作家在克里斯蒂安尼亚的挣扎。",
+    "genre": [
+      "fiction",
+      "psychological",
+      "modernism"
+    ],
+    "tags": [
+      "norwegian",
+      "hunger",
+      "poverty",
+      "modernism",
+      "stream-of-consciousness"
+    ],
+    "publishYear": 1890,
+    "pages": 233,
+    "relatedBookIds": [
+      "book-ulysses",
+      "book-mrs-dalloway",
+      "book-steppenwolf"
+    ]
+  }
+]

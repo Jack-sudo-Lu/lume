@@ -1,0 +1,57 @@
+{
+  "books": [
+    {
+      "bookId": "book-notes-underground",
+      "title": "Notes from Underground",
+      "titleCn": "地下室手记",
+      "author": "Fyodor Dostoevsky",
+      "authorCn": "陀思妥耶夫斯基",
+      "isbn": "9780679734529",
+      "status": "reading",
+      "progress": "未开始"
+    },
+    {
+      "bookId": "book-bar-talk",
+      "title": "Conversation in the Cathedral",
+      "titleCn": "酒吧长谈",
+      "author": "Mario Vargas Llosa",
+      "authorCn": "马里奥·巴尔加斯·略萨",
+      "isbn": "9780060732806",
+      "status": "finished"
+    },
+    {
+      "bookId": "book-plague",
+      "title": "The Plague",
+      "titleCn": "鼠疫",
+      "author": "Albert Camus",
+      "authorCn": "加缪",
+      "isbn": "9780679720218",
+      "status": "finished"
+    },
+    {
+      "bookId": "book-light-august",
+      "title": "Light in August",
+      "titleCn": "八月之光",
+      "author": "William Faulkner",
+      "authorCn": "福克纳",
+      "isbn": "9780679732266",
+      "status": "finished"
+    },
+    {
+      "bookId": "book-end-daylight",
+      "title": "The End of Days",
+      "titleCn": "白日尽头",
+      "author": "Jenny Erpenbeck",
+      "authorCn": "珍妮·厄本贝克",
+      "isbn": "9780811221924",
+      "status": "planned"
+    }
+  ],
+  "activity": {
+    "date": "2026-03-27",
+    "time": "19:30-21:30",
+    "location": "须臾酒馆",
+    "currentBook": "八月之光",
+    "readingTarget": "结尾"
+  }
+}
