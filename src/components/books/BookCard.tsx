@@ -4,9 +4,6 @@ import { getBookCoverUrl } from "@/lib/openLibrary";
 
 export function BookCard({ book }: { book: Book }) {
   const coverUrl = getBookCoverUrl(book.isbn);
-  const googleBooksUrl = book.isbn
-    ? `https://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1&isbn=${book.isbn}`
-    : null;
 
   return (
     <Link
@@ -22,13 +19,8 @@ export function BookCard({ book }: { book: Book }) {
             alt={book.titleCn}
             className="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
             onError={(e) => {
-              const target = e.target as HTMLImageElement;
-              if (googleBooksUrl && target.src !== googleBooksUrl) {
-                target.src = googleBooksUrl;
-              } else {
-                target.src = "/book-cover-placeholder.svg";
-                target.onerror = null;
-              }
+              (e.target as HTMLImageElement).src = "/book-cover-placeholder.svg";
+              (e.target as HTMLImageElement).onerror = null;
             }}
           />
         ) : (

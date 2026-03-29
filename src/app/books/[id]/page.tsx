@@ -183,7 +183,7 @@ export default function BookDetailPage() {
                   {rb.isbn ? (
                     // eslint-disable-next-line @next/next/no-img-element
                     <img
-                      src={`https://covers.openlibrary.org/b/isbn/${rb.isbn}-M.jpg`}
+                      src={`/covers/${rb.isbn}.jpg`}
                       alt={rb.titleCn}
                       className="w-full h-full object-cover"
                       onError={(e) => {

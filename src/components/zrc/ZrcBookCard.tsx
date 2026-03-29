@@ -4,12 +4,7 @@ import Link from "next/link";
 import { ZrcBook } from "@/types";
 
 export function ZrcBookCard({ book, size = "medium" }: { book: ZrcBook; size?: "small" | "medium" | "large" }) {
-  const coverUrl = book.isbn
-    ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-${size === "large" ? "L" : "M"}.jpg`
-    : null;
-  const googleBooksUrl = book.isbn
-    ? `https://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1&isbn=${book.isbn}`
-    : null;
+  const coverUrl = book.isbn ? `/covers/${book.isbn}.jpg` : null;
 
   const sizeClasses = {
     small: "w-24",
@@ -28,13 +23,8 @@ export function ZrcBookCard({ book, size = "medium" }: { book: ZrcBook; size?: "
               alt={book.titleCn}
               className="w-full h-full object-cover"
               onError={(e) => {
-                const target = e.target as HTMLImageElement;
-                if (googleBooksUrl && target.src !== googleBooksUrl) {
-                  target.src = googleBooksUrl;
-                } else {
-                  target.src = "/book-cover-placeholder.svg";
-                  target.onerror = null;
-                }
+                (e.target as HTMLImageElement).src = "/book-cover-placeholder.svg";
+                (e.target as HTMLImageElement).onerror = null;
               }}
             />
           ) : (

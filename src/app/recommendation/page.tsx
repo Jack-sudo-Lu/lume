@@ -49,7 +49,7 @@ export default function RecommendationPage() {
   if (!book) return null;
 
   const coverUrl = book.isbn
-    ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-L.jpg`
+    ? `/covers/${book.isbn}.jpg`
     : null;
 
   return (

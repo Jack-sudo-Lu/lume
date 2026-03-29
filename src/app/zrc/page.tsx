@@ -71,7 +71,7 @@ export default function ZrcPage() {
                   {currentBook.isbn && (
                     // eslint-disable-next-line @next/next/no-img-element
                     <img
-                      src={`https://covers.openlibrary.org/b/isbn/${currentBook.isbn}-L.jpg`}
+                      src={`/covers/${currentBook.isbn}.jpg`}
                       alt={currentBook.titleCn}
                       className="w-full h-full object-cover"
                       onError={(e) => {
