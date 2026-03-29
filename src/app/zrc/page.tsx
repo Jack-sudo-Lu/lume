@@ -5,14 +5,21 @@ import Link from "next/link";
 import { getZrcBooks, getZrcActivity } from "@/lib/zrc";
 import { ZrcBookCard } from "@/components/zrc/ZrcBookCard";
 import { ZrcActivityEditor } from "@/components/zrc/ZrcActivityEditor";
-import { ZrcActivity } from "@/types";
+import { ZrcReadingEditor } from "@/components/zrc/ZrcReadingEditor";
+import { ZrcPlannedEditor } from "@/components/zrc/ZrcPlannedEditor";
+import { ZrcActivity, ZrcBook } from "@/types";
 
 export default function ZrcPage() {
-  const currentBook = getZrcBooks("reading")[0];
-  const finishedBooks = getZrcBooks("finished");
-  const plannedBooks = getZrcBooks("planned");
+  const [currentBook] = useState<ZrcBook | undefined>(
+    getZrcBooks("reading")[0]
+  );
+  const [finishedBooks] = useState(getZrcBooks("finished"));
+  const [plannedBooks] = useState(getZrcBooks("planned"));
   const [activity, setActivity] = useState<ZrcActivity>(getZrcActivity());
   const [showEditor, setShowEditor] = useState(false);
+  const [showReadingEditor, setShowReadingEditor] = useState(false);
+  const [showPlannedEditor, setShowPlannedEditor] = useState(false);
+
 
   return (
     <div className="max-w-5xl mx-auto px-6 py-12 animate-fade-in">
@@ -41,11 +48,19 @@ export default function ZrcPage() {
       </div>
 
       {/* Currently Reading */}
-      {currentBook && (
-        <section className="mb-12 pb-12 border-b border-border-light">
-          <span className="text-xs font-mono text-text-tertiary tracking-wider uppercase mb-6 block">
+      <section className="mb-12 pb-12 border-b border-border-light">
+        <div className="flex items-center justify-between mb-6">
+          <span className="text-xs font-mono text-text-tertiary tracking-wider uppercase">
             正在阅读
           </span>
+          <button
+            onClick={() => setShowReadingEditor(true)}
+            className="text-xs px-3 py-1.5 rounded-lg border border-border-light text-text-secondary hover:text-text-primary hover:border-accent transition-colors"
+          >
+            更换
+          </button>
+        </div>
+        {currentBook ? (
           <Link
             href={`/zrc/book/${currentBook.bookId}`}
             className="block p-8 rounded-lg border border-border-light bg-bg-secondary/50 hover:bg-bg-secondary hover:border-border-medium transition-all duration-300"
@@ -86,8 +101,12 @@ export default function ZrcPage() {
               </div>
             </div>
           </Link>
-        </section>
-      )}
+        ) : (
+          <div className="text-center py-8 text-text-muted text-sm">
+            暂无正在阅读的书，点击&ldquo;更换&rdquo;选择一本
+          </div>
+        )}
+      </section>
 
       {/* This Week's Activity */}
       <section className="mb-12 pb-12 border-b border-border-light">
@@ -139,20 +158,32 @@ export default function ZrcPage() {
       )}
 
       {/* Planned Books */}
-      {plannedBooks.length > 0 && (
-        <section className="mb-12">
-          <span className="text-xs font-mono text-text-tertiary tracking-wider uppercase mb-6 block">
+      <section className="mb-12">
+        <div className="flex items-center justify-between mb-6">
+          <span className="text-xs font-mono text-text-tertiary tracking-wider uppercase">
             计划书目
           </span>
+          <button
+            onClick={() => setShowPlannedEditor(true)}
+            className="text-xs px-3 py-1.5 rounded-lg border border-border-light text-text-secondary hover:text-text-primary hover:border-accent transition-colors"
+          >
+            编辑
+          </button>
+        </div>
+        {plannedBooks.length > 0 ? (
           <div className="flex gap-4 overflow-x-auto pb-2 scrollbar-hide">
             {plannedBooks.map((book) => (
               <ZrcBookCard key={book.bookId} book={book} size="medium" />
             ))}
           </div>
-        </section>
-      )}
+        ) : (
+          <div className="text-center py-8 text-text-muted text-sm">
+            暂无计划书目，点击&ldquo;编辑&rdquo;添加
+          </div>
+        )}
+      </section>
 
-      {/* Activity Editor Modal */}
+      {/* Modals */}
       {showEditor && (
         <ZrcActivityEditor
           activity={activity}
@@ -160,6 +191,27 @@ export default function ZrcPage() {
           onSave={(updated) => {
             setActivity(updated);
             setShowEditor(false);
+          }}
+        />
+      )}
+
+      {showReadingEditor && (
+        <ZrcReadingEditor
+          onClose={() => setShowReadingEditor(false)}
+          onSave={() => {
+            // zrc.json was updated server-side, but getZrcBooks reads from the import
+            // Need to reload the page to get fresh data
+            window.location.reload();
+          }}
+        />
+      )}
+
+      {showPlannedEditor && (
+        <ZrcPlannedEditor
+          plannedBooks={plannedBooks}
+          onClose={() => setShowPlannedEditor(false)}
+          onSave={() => {
+            window.location.reload();
           }}
         />
       )}

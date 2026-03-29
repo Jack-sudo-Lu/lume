@@ -4,6 +4,24 @@ import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 const CORRECT_ANSWER = "神秘哥";
+const GATE_KEY = "lume_zrc_gate";
+const GATE_DURATION = 30 * 60 * 1000; // 30 minutes
+
+function isGateValid(): boolean {
+  if (typeof window === "undefined") return false;
+  try {
+    const ts = localStorage.getItem(GATE_KEY);
+    if (!ts) return false;
+    return Date.now() - parseInt(ts, 10) < GATE_DURATION;
+  } catch {
+    return false;
+  }
+}
+
+function setGateTimestamp() {
+  if (typeof window === "undefined") return;
+  localStorage.setItem(GATE_KEY, Date.now().toString());
+}
 
 export function ZrcGate() {
   const [showDialog, setShowDialog] = useState(false);
@@ -21,6 +39,7 @@ export function ZrcGate() {
 
   const handleSubmit = () => {
     if (answer.trim() === CORRECT_ANSWER) {
+      setGateTimestamp();
       setSuccess(true);
       setTimeout(() => {
         setShowDialog(false);
@@ -33,6 +52,11 @@ export function ZrcGate() {
   };
 
   const openDialog = () => {
+    // Skip gate if answered within 30 minutes
+    if (isGateValid()) {
+      router.push("/zrc");
+      return;
+    }
     setShowDialog(true);
     setAnswer("");
     setSuccess(false);
